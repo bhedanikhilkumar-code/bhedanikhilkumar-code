@@ -72,6 +72,20 @@ Right now, I’m focused on strengthening my fundamentals, building better proje
   <img src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&stroke=94A3B8&ring=60A5FA&fire=38BDF8&currStreakLabel=60A5FA" alt="GitHub Streak" />
 </p>
 
+## Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bhedanikhilkumar-code&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&rank=-?" alt="GitHub Trophies" />
+</p>
+
+## Contribution Graph
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ## Education & Certifications
 - **Atmiya Institute of Technology & Science**
 - **Introduction to C Programming**
