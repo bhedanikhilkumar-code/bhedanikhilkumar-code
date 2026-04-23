@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:111827,70:1E293B,100:0A66C2&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20%26%20Flutter%20Developer&descAlignY=58&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:111827,100:0A66C2&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Full-Stack%20%26%20Flutter%20Developer&descAlignY=58&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1100&color=60A5FA&center=true&vCenter=true&width=920&lines=Building+practical+and+user-friendly+digital+solutions;Focused+on+full-stack+apps%2C+automation%2C+and+utility-driven+products;Learning+by+shipping+real-world+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1200&color=60A5FA&center=true&vCenter=true&width=860&lines=Building+practical+and+user-friendly+digital+solutions;Focused+on+full-stack+apps%2C+automation%2C+and+mobile+utility+tools" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,9 +22,9 @@ I build practical software projects focused on real workflows, clean user experi
 My work is mainly around full-stack web apps, Flutter-based mobile tools, and product ideas that solve operational or everyday problems in a simple way.
 
 - 💡 Interested in full-stack apps, automation, and utility-driven products
-- 🧠 Focused on problem-solving, debugging, and writing maintainable code
+- 🧠 Focused on problem-solving, debugging, and maintainable code
 - 🚀 Learning by building and shipping real projects
-- 🤝 Open to collaboration and growth opportunities
+- 🤝 Open to internships, collaborations, and growth opportunities
 
 ## Featured Projects
 <p align="center">
@@ -45,29 +45,17 @@ My work is mainly around full-stack web apps, Flutter-based mobile tools, and pr
   </a>
 </p>
 
-## Selected Work
-- **ExporTrack AI** — export logistics platform for shipment workflows, document verification, and dashboards.  
-  <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI"><img src="https://img.shields.io/badge/Repo-111827?style=flat-square&logo=github&logoColor=white" alt="ExporTrack Repo" /></a>
-  <a href="https://expor-track-ai.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=flat-square&logo=vercel&logoColor=white" alt="ExporTrack Demo" /></a>
-
-- **Site Surveyor Compass** — Flutter field utility app for GPS workflows, measurement tools, waypoint handling, and reporting.  
-  <a href="https://github.com/bhedanikhilkumar-code/site-surveyor-compass"><img src="https://img.shields.io/badge/Repo-111827?style=flat-square&logo=github&logoColor=white" alt="Surveyor Repo" /></a>
-  <img src="https://img.shields.io/badge/Flutter%20App-0A66C2?style=flat-square&logo=flutter&logoColor=white" alt="Flutter App" />
-
-- **Planora** — calendar platform with recurrence support, ICS import/export, admin tooling, and PostgreSQL-backed event workflows.  
-  <a href="https://github.com/bhedanikhilkumar-code/Planora"><img src="https://img.shields.io/badge/Repo-111827?style=flat-square&logo=github&logoColor=white" alt="Planora Repo" /></a>
-  <img src="https://img.shields.io/badge/Monorepo-0F172A?style=flat-square" alt="Monorepo" />
-
-- **AutoPortfolio Builder** — FastAPI-based portfolio generator with GitHub/LinkedIn input workflows, authentication, admin tools, and exports.  
-  <a href="https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder"><img src="https://img.shields.io/badge/Repo-111827?style=flat-square&logo=github&logoColor=white" alt="AutoPortfolio Repo" /></a>
-  <a href="https://autoporfolio-builder.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-0A66C2?style=flat-square&logo=render&logoColor=white" alt="AutoPortfolio Demo" /></a>
+## Quick Project Overview
+- **ExporTrack AI** — export logistics platform for shipment workflows, document verification, and dashboards.
+- **Site Surveyor Compass** — Flutter field utility app for GPS workflows, measurement tools, waypoint handling, and reporting.
+- **Planora** — calendar platform with recurrence support, ICS import/export, admin tooling, and PostgreSQL-backed event workflows.
+- **AutoPortfolio Builder** — FastAPI-based portfolio generator with GitHub/LinkedIn input workflows, authentication, admin tools, and exports.
 
 <p align="center">
   <sub>Also built: <a href="https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator">Developer-Avatar-Generator</a>, <a href="https://github.com/bhedanikhilkumar-code/Smart-Study-Planner">Smart-Study-Planner</a>, and more.</sub>
 </p>
 
 ## Tech Stack
-### Core
 - **Frontend:** React, TypeScript, JavaScript, HTML, CSS
 - **Backend:** Node.js, Express, FastAPI
 - **Mobile:** Flutter, Dart
@@ -105,15 +93,6 @@ My work is mainly around full-stack web apps, Flutter-based mobile tools, and pr
 - **EF SET English Certificate — 59/100 (B2 Upper Intermediate)**
 
 ## Connect With Me
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
     <img src="https://img.shields.io/badge/GitHub-View%20Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" />
