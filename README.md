@@ -83,6 +83,10 @@ I enjoy building practical products across logistics, scheduling, portfolio auto
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,html,css&theme=dark" alt="Tech Stack" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:0A66C2&height=3&section=header" alt="divider" />
+</p>
+
 ## Current Focus
 - Building practical full-stack and mobile projects
 - Improving debugging and problem-solving skills
@@ -121,6 +125,10 @@ I enjoy building practical products across logistics, scheduling, portfolio auto
   <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:111827&height=3&section=header" alt="divider" />
 </p>
 
 <p align="center"><i>Building useful software, one project at a time.</i></p>
