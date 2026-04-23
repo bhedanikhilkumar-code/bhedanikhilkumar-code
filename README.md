@@ -30,6 +30,9 @@ My work is mainly around full-stack web apps, Flutter-based mobile tools, and pr
 - 🚀 Learning by building and shipping real projects
 - 🤝 Open to internships, collaborations, and growth opportunities
 
+## Professional Summary
+I enjoy building practical products across logistics, scheduling, portfolio automation, and mobile utility workflows.
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:111827&height=3&section=header" alt="divider" />
 </p>
@@ -54,10 +57,10 @@ My work is mainly around full-stack web apps, Flutter-based mobile tools, and pr
 </p>
 
 ## Quick Project Overview
-- **ExporTrack AI** — export logistics platform for shipment workflows, document verification, and dashboards.
-- **Site Surveyor Compass** — Flutter field utility app for GPS workflows, measurement tools, waypoint handling, and reporting.
-- **Planora** — calendar platform with recurrence support, ICS import/export, admin tooling, and PostgreSQL-backed event workflows.
-- **AutoPortfolio Builder** — FastAPI-based portfolio generator with GitHub/LinkedIn input workflows, authentication, admin tools, and exports.
+- **ExporTrack AI** — full-stack logistics workflow platform with shipment tracking and document verification.
+- **Site Surveyor Compass** — Flutter-based field utility app for GPS workflows, measurement, and reporting.
+- **Planora** — calendar and admin platform with recurrence, ICS support, and structured event management.
+- **AutoPortfolio Builder** — FastAPI portfolio generator with profile ingestion, auth flows, and export tools.
 
 <p align="center">
   <sub>Also built: <a href="https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator">Developer-Avatar-Generator</a>, <a href="https://github.com/bhedanikhilkumar-code/Smart-Study-Planner">Smart-Study-Planner</a>, and more.</sub>
@@ -117,6 +120,8 @@ My work is mainly around full-stack web apps, Flutter-based mobile tools, and pr
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's Connect" />
   </a>
 </p>
+
+<p align="center"><i>Building useful software, one project at a time.</i></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0A66C2,100:020617&section=footer" alt="Footer" />
