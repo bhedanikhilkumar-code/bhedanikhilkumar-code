@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:111827,70:1E3A8A,100:0A66C2&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20and%20Flutter%20Developer&descAlignY=60&animation=twinkling" alt="Nikhil Bheda Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,30:111827,65:1E3A8A,100:0A66C2&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=50&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder&descAlignY=58&descSize=20&animation=fadeIn" alt="Nikhil Bheda Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Nikhil+Bheda;Full-Stack+and+Flutter+Developer;Building+practical+and+user-friendly+digital+solutions;Focused+on+automation%2C+real-world+workflows%2C+and+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1100&color=93C5FD&center=true&vCenter=true&width=980&lines=Building+practical+and+user-friendly+digital+solutions;Focused+on+full-stack+apps%2C+automation%2C+and+mobile+utility+tools;Turning+real-world+problems+into+clean%2C+usable+products" alt="Typing SVG" />
 </p>
+
+<p align="center"><b>Full-Stack Developer • Flutter Builder • Problem Solver</b></p>
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
