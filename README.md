@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,28:1D4ED8,58:2563EB,82:38BDF8,100:7DD3FC&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder&descAlignY=60&descSize=18&animation=fadeIn" alt="Nikhil Bheda Banner" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/snake.svg" alt="Snake Animation" />
-</p>
-
 <p align="center"><b>Computer Engineering student building practical full-stack products, Flutter apps, and workflow automation tools.</b></p>
 
 <p align="center">
