@@ -87,6 +87,10 @@ FastAPI-based portfolio generator that turns GitHub and LinkedIn inputs into por
 
 ## GitHub Activity
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhedanikhilkumar-code&theme=dark&hide_border=true&background=0f172a" alt="Streak" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-contributions.vercel.app/svg/?username=bhedanikhilkumar-code" alt="Contributions" />
 </p>
 
