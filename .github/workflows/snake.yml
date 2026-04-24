@@ -1,34 +1,32 @@
-name: Snake Animation
+name: Generate Snake Animation
+
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Generate GitHub Snake
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          user: bhedanikhilkumar-code
-          outputs: dist/github-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: bhedanikhilkumar-code
+          outputs: |
+            dist/github-snake.svg?palette=github-dark
 
-      - uses: actions/upload-artifact@v4
+      - name: Deploy snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: github-snake
-          path: dist/github-snake.svg
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p output
-          cp dist/github-snake.svg output/github-snake.svg
-          git add output/github-snake.svg
-          git commit -m "Update snake animation" || true
-          git push
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true

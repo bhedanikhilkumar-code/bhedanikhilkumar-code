@@ -1,138 +1,143 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,20:1e3a8a,40:2563eb,60:38bdf8,80:7dd3fc,100:0ea5e9&text=Hi,%20I'm%20Nikhil%20Bheda%20👋&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Full-Stack%20Developer%20|%20Flutter%20Builder%20|%20Product%20Engineer&descAlignY=56&descSize=20&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder%20%7C%20Product-Focused%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="Nikhil Bheda Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?fontSize=16&color=38BDF8&center=true&vCenter=true&width=380&lines=Building%20real%20products%20instead%20of%20tutorials;Focus%20on%20automation%20%26%20UX;Always%20learning%20new%20tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+real+products+instead+of+tutorial-only+projects;Focused+on+clean+UX%2C+practical+automation%2C+and+solid+engineering;Open+to+internships%2C+collaborations%2C+and+impactful+software+work" alt="Typing Intro" />
 </p>
-
----
-
-### 🔥 Current Status
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,python,flutter,dart,postgres,mysql,docker,git&theme=dark&size=48" />
-  <br/>
-  <img src="https://img.shields.io/badge/💻%20Building-AI%20Projects-0f172a?style=for-the-badge&logoColor=white&labelColor=38bdf8" />
-  <img src="🎯 Focused-Learning%20Full-Stack-0f172a?style=for-the-badge" />
-  <img src="☕%20Open%20For-Internships-0f172a?style=for-the-badge" />
+  <a href="https://github.com/bhedanikhilkumar-code">
+    <img src="https://img.shields.io/badge/GitHub-bhedanikhilkumar--code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Bheda-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 </p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0f172a&rank_font=Bebas&size=100" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=donut&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a&size=100" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Open to Internships and Collaborations" />
+  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Focus Product Engineering" />
+  <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
 </p>
 
----
+## About Me
+I build software around real workflows with a strong focus on clean UX, useful automation, and maintainable engineering.
 
-### 📈 Contribution Graph
+My work spans full-stack web apps, Flutter mobile products, and practical tools that solve operational or everyday problems.
 
-<p align="center">
-  <img src="https://github-contributions.vercel.app/svg/?username=bhedanikhilkumar-code&theme=nord&size=12" alt="Contributions" />
-</p>
+- Building products, not just demo projects
+- Comfortable with React, TypeScript, Node.js, FastAPI, Flutter, PostgreSQL, and MySQL
+- Interested in product thinking, developer tooling, automation, and polished user experience
+- Always trying to combine strong functionality with professional presentation
 
----
+## What I Build
+- **Full-stack platforms** for admin, operations, and workflow-heavy use cases
+- **Flutter apps** with practical offline-first and productivity-focused experiences
+- **Automation tools** that reduce repetitive work and improve delivery speed
+- **Developer utilities** that turn structured data into usable product assets
 
-### 🐍 Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-| **Frontend** | **Backend** | **Mobile** | **Database** | **Tools** |
-|-------------|-------------|------------|-------------|----------|
-| React | Node.js | Flutter | PostgreSQL | Git |
-| TypeScript | Express | Dart | MySQL | Docker |
-| JavaScript | FastAPI | — | — | AWS |
-| HTML/CSS | Python | — | — | Firebase |
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,docker,aws,firebase,prisma,redis&theme=dark" alt="Skills" />
-</p>
-
----
-
-### 📂 Featured Projects
-
+## Featured Projects
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="ExporTrack AI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="ExporTrack AI" />
   </a>
   <a href="https://github.com/bhedanikhilkumar-code/Planora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=Planora&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Planora" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=Planora&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Planora" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/site-surveyor-compass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=site-surveyor-compass&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="Site Surveyor Compass" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=site-surveyor-compass&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Site Surveyor Compass" />
   </a>
   <a href="https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=AutoPortfolio-Builder&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" alt="AutoPortfolio Builder" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=AutoPortfolio-Builder&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="AutoPortfolio Builder" />
   </a>
 </p>
 
----
+## Project Highlights
+### ExporTrack AI
+Full-stack logistics workflow platform for shipment tracking, document verification, and operational visibility.
+- **Stack:** React, TypeScript, Node.js, Express, MySQL
+- **Focus:** business workflow design, dashboard visibility, document handling
 
-### 📝 Project Highlights
+### Planora
+Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
+- **Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL
+- **Focus:** monorepo architecture, validation, admin tooling, recurring scheduling logic
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **ExporTrack AI** | Full-stack logistics platform for shipment tracking & document verification | React, TypeScript, Node.js, Express, MySQL |
-| **Planora** | Calendar & admin platform with recurrence, ICS import/export, authentication | React, TypeScript, Node.js, Prisma, PostgreSQL |
-| **Site Surveyor Compass** | Flutter field utility for surveying, navigation, measurement & waypoint management | Flutter, Dart, Provider, Hive, Firebase |
-| **AutoPortfolio Builder** | Portfolio generator from GitHub & LinkedIn inputs with admin tooling | FastAPI, Python, JavaScript |
+### Site Surveyor Compass
+Flutter-based field utility app for surveying, navigation, measurement, waypoint management, and on-site reporting.
+- **Stack:** Flutter, Dart, Provider, Hive, Firebase
+- **Focus:** mobile utility UX, sensor integration, field productivity workflows
+
+### AutoPortfolio Builder
+FastAPI-based portfolio generator that turns GitHub and LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
+- **Stack:** FastAPI, Python, JavaScript, HTML/CSS
+- **Focus:** developer tooling, automation, structured content generation
 
 <p align="center">
-  <sub>Also built: <a href="https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator">Developer-Avatar-Generator</a>, <a href="https://github.com/bhedanikhilkumar-code/money-king">money-king</a>, <a href="https://github.com/bhedanikhilkumar-code/Smart-Study-Planner">Smart-Study-Planner</a></sub>
+  <sub>
+    Also built:
+    <a href="https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator">Developer-Avatar-Generator</a>,
+    <a href="https://github.com/bhedanikhilkumar-code/money-king">money-king</a>, and
+    <a href="https://github.com/bhedanikhilkumar-code/Smart-Study-Planner">Smart-Study-Planner</a>.
+  </sub>
 </p>
 
----
+## Tech Stack
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express, FastAPI
+- **Mobile:** Flutter, Dart
+- **Database:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Docker, Firebase
 
-### 📱 Connect With Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,docker,firebase,html,css&theme=dark" alt="Tech Stack" />
+</p>
 
+## GitHub Activity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub Streak" />
+</p>
+
+## Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhedanikhilkumar-code&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Activity Graph" />
+</p>
+
+## Daily Contribution Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/38bdf8/bhedanikhilkumar-code" alt="Daily Contribution Heatmap" />
+</p>
+
+## Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+## Education
+- **Computer Engineering** — Atmiya Institute of Technology & Science
+- **EF SET English Certificate** — B2 Upper Intermediate
+- **Introduction to C Programming**
+
+## Connect With Me
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://img.shields.io/badge/GitHub-bhedanikhilkumar--code-0f172a?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-View%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="View Projects" />
   </a>
   <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Bheda-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bhedanikhilkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhedanikhilkumar-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" alt="Email" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="Let's Connect" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38bdf8&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-### 📌 Quick Links
-
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-38bdf8?style=flat-square&labelColor=0f172a" alt="Projects" />
-  </a>
-  <a href="https://github.com/bhedanikhilkumar-code?tab=achievements">
-    <img src="https://img.shields.io/badge/Achievements-38bdf8?style=flat-square&labelColor=0f172a" alt="Achievements" />
-  </a>
-  <a href="https://github.com/bhedanikhilkumar-code?tab=packages">
-    <img src="https://img.shields.io/badge/Packages-38bdf8?style=flat-square&labelColor=0f172a" alt="Packages" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=60&color=0:38bdf8,50:2563eb,100:020617&text=Thanks%20for%20visiting!%20Let's%20build%20something%20cool%20together%20🚀" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:2563EB,100:38BDF8&height=2&section=footer" alt="Footer Divider" />
 </p>
