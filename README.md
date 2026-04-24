@@ -27,35 +27,60 @@
   <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
 </p>
 
-## About Me
+## Profile Summary
 I build software around real workflows with a strong focus on clean UX, useful automation, and maintainable engineering.
 
 My work spans full-stack web apps, Flutter mobile products, and practical tools that solve operational or everyday problems.
 
-- Building products, not just demo projects
-- Comfortable with React, TypeScript, Node.js, FastAPI, Flutter, PostgreSQL, and MySQL
-- Interested in product thinking, developer tooling, automation, and polished user experience
-- Always trying to combine strong functionality with professional presentation
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=17&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Product+Thinking;Full-Stack+Engineering;Flutter+Development;Automation+Systems" alt="Profile Focus Animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Builds-Real%20Products-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Builds Real Products" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Node.js-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="React TypeScript Node.js" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Flutter Dart" />
+  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="PostgreSQL MySQL" />
+</p>
 
 ## What I Build
 - **Full-stack platforms** for admin, operations, and workflow-heavy use cases
 - **Flutter apps** with practical offline-first and productivity-focused experiences
-- **Automation tools** that reduce repetitive work and improve delivery speed
+- **Automation tools** that reduce repetitive work through streamlined systems
 - **Developer utilities** that turn structured data into usable product assets
 
-## Professional Snapshot
-| Area | Strength |
-| --- | --- |
-| **Product Thinking** | Building software around real workflows, usability, and delivery value |
-| **Full-Stack Engineering** | Creating reliable web systems with clean architecture and maintainable code |
-| **Mobile Development** | Shipping Flutter experiences focused on utility, speed, and polish |
-| **Automation Mindset** | Reducing manual work through practical tools and workflow design |
+## Core Expertise
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Product Thinking</strong><br/>
+      Building software around real workflows, usability, and delivery value.
+      <br/><br/>
+      <strong>Full-Stack Engineering</strong><br/>
+      Creating reliable web systems with clean architecture and maintainable code.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Mobile Development</strong><br/>
+      Shipping Flutter experiences focused on utility, speed, and polish.
+      <br/><br/>
+      <strong>Automation Mindset</strong><br/>
+      Reducing manual work through practical tools and workflow design.
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 - Designing software that feels **practical, fast, and professional**
 - Building **full-stack and Flutter products** that solve real problems
 - Improving **UI polish, developer workflows, and automation systems**
 - Looking for **internships, collaborations, and meaningful engineering work**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-Product%20Quality-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Product Quality" />
+  <img src="https://img.shields.io/badge/Current%20Focus-UI%20Polish-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="UI Polish" />
+  <img src="https://img.shields.io/badge/Current%20Focus-Automation%20Systems-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Automation Systems" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Open To Internships and Collaborations" />
+</p>
 
 ## Featured Projects
 <p align="center">
