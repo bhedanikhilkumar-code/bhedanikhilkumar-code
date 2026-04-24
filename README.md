@@ -84,6 +84,10 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 
 ## Featured Projects
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Selected+projects+focused+on+real-world+utility+and+clean+execution;Full-stack+systems%2C+Flutter+products%2C+and+practical+automation+tools" alt="Featured Projects Intro" />
+</p>
+
+<p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="ExporTrack AI" />
   </a>
@@ -101,26 +105,47 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
   </a>
 </p>
 
-## Project Highlights
-### ExporTrack AI
-Full-stack logistics workflow platform for shipment tracking, document verification, and operational visibility.
-- **Stack:** React, TypeScript, Node.js, Express, MySQL
-- **Focus:** business workflow design, dashboard visibility, document handling
+## Selected Work
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>ExporTrack AI</strong><br/>
+      Full-stack logistics workflow platform for shipment tracking, document verification, and operational visibility.
+      <br/><br/>
+      <strong>Stack:</strong> React, TypeScript, Node.js, Express, MySQL<br/>
+      <strong>Strength:</strong> Business workflow design, dashboard visibility, and document handling.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Planora</strong><br/>
+      Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
+      <br/><br/>
+      <strong>Stack:</strong> React, TypeScript, Node.js, Express, Prisma, PostgreSQL<br/>
+      <strong>Strength:</strong> Monorepo architecture, validation, admin tooling, and recurring scheduling logic.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Site Surveyor Compass</strong><br/>
+      Flutter-based field utility app for surveying, navigation, measurement, waypoint management, and on-site reporting.
+      <br/><br/>
+      <strong>Stack:</strong> Flutter, Dart, Provider, Hive, Firebase<br/>
+      <strong>Strength:</strong> Mobile utility UX, sensor integration, and field productivity workflows.
+    </td>
+    <td width="50%" valign="top">
+      <strong>AutoPortfolio Builder</strong><br/>
+      FastAPI-based portfolio generator that turns GitHub and LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
+      <br/><br/>
+      <strong>Stack:</strong> FastAPI, Python, JavaScript, HTML/CSS<br/>
+      <strong>Strength:</strong> Developer tooling, automation, and structured content generation.
+    </td>
+  </tr>
+</table>
 
-### Planora
-Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
-- **Stack:** React, TypeScript, Node.js, Express, Prisma, PostgreSQL
-- **Focus:** monorepo architecture, validation, admin tooling, recurring scheduling logic
-
-### Site Surveyor Compass
-Flutter-based field utility app for surveying, navigation, measurement, waypoint management, and on-site reporting.
-- **Stack:** Flutter, Dart, Provider, Hive, Firebase
-- **Focus:** mobile utility UX, sensor integration, field productivity workflows
-
-### AutoPortfolio Builder
-FastAPI-based portfolio generator that turns GitHub and LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
-- **Stack:** FastAPI, Python, JavaScript, HTML/CSS
-- **Focus:** developer tooling, automation, structured content generation
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Style-Practical%20%26%20Product%20Focused-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Practical and Product Focused" />
+  <img src="https://img.shields.io/badge/Delivery-Clean%20UX%20%26%20Useful%20Automation-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Clean UX and Useful Automation" />
+  <img src="https://img.shields.io/badge/Build%20Style-Real%20Use%20Cases-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Real Use Cases" />
+</p>
 
 <p align="center">
   <sub>
