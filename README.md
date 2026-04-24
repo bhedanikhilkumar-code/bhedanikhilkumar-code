@@ -17,6 +17,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/followers/bhedanikhilkumar-code?style=for-the-badge&color=38BDF8&labelColor=0F172A" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/bhedanikhilkumar-code?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38BDF8&labelColor=0F172A" alt="GitHub Stars" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Open to Internships and Collaborations" />
   <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Focus Product Engineering" />
   <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
@@ -37,6 +42,20 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 - **Flutter apps** with practical offline-first and productivity-focused experiences
 - **Automation tools** that reduce repetitive work and improve delivery speed
 - **Developer utilities** that turn structured data into usable product assets
+
+## Professional Snapshot
+| Area | Strength |
+| --- | --- |
+| **Product Thinking** | Building software around real workflows, usability, and delivery value |
+| **Full-Stack Engineering** | Creating reliable web systems with clean architecture and maintainable code |
+| **Mobile Development** | Shipping Flutter experiences focused on utility, speed, and polish |
+| **Automation Mindset** | Reducing manual work through practical tools and workflow design |
+
+## Current Focus
+- Designing software that feels **practical, fast, and professional**
+- Building **full-stack and Flutter products** that solve real problems
+- Improving **UI polish, developer workflows, and automation systems**
+- Looking for **internships, collaborations, and meaningful engineering work**
 
 ## Featured Projects
 <p align="center">
