@@ -157,17 +157,28 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## Tech Stack
-- **Frontend:** React, TypeScript, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express, FastAPI
-- **Mobile:** Flutter, Dart
-- **Database:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, Docker, Firebase
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Tech+Stack&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Tech Stack Divider" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,docker,firebase,html,css&theme=dark" alt="Tech Stack" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React+%7C+TypeScript+%7C+JavaScript-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js+%7C+FastAPI+%7C+Python-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Backend" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter+%7C+Dart-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Mobile" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL+%7C+MySQL-0F172A?style=flat-square&labelColor=7DD3FC&color=0F172A" alt="Database" />
+  <img src="https://img.shields.io/badge/Tools-Git+%7C+Docker+%7C+Firebase-0F172A?style=flat-square&labelColor=94A3B8&color=0F172A" alt="Tools" />
+</p>
+
 ## GitHub Activity
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=GitHub+Activity&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="GitHub Activity Divider" />
+</p>
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8" alt="Top Languages" />
@@ -193,9 +204,19 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## Education
-- **Computer Engineering** — Atmiya Institute of Technology & Science
-- **EF SET English Certificate** — B2 Upper Intermediate
-- **Introduction to C Programming**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Education&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Education Divider" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Atmiya%20Institute%20of%20Technology%20%26%20Science-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Computer Engineering" />
+  <img src="https://img.shields.io/badge/EF%20SET-B2%20Upper%20Intermediate-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="EF SET" />
+  <img src="https://img.shields.io/badge/Programming-C%20Programming-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="C Programming" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Connect+With+Me&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Connect With Me Divider" />
+</p>
 
 ## Connect With Me
 <p align="center">
@@ -208,5 +229,14 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:2563EB,100:38BDF8&height=2&section=footer" alt="Footer Divider" />
+  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-0F172A?style=for-the-badge&labelColor=38BDF8&color=0F172A" alt="Open To Opportunities" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary.vercel.app/api?username=bhedanikhilkumar-code&title=0&name_color=DBEAFE&ring_color=38BDF8&force_mask=round&bg_color=0F172A&border_radius=12" alt="GitHub Profile Card" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Thanks+for+visiting!+Let%27s+connect+and+build+something+great+together&fontColor=7DD3FC&fontSize=20&fontAlignY=30&animation=fadeIn" alt="Footer Banner" />
 </p>
