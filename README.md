@@ -225,16 +225,14 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-0F172A?style=for-the-badge&labelColor=38BDF8&color=0F172A" alt="Open To Opportunities Badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show=profile&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8&ring_color=60A5FA&border_radius=12" alt="Nikhil Bheda Profile Stats" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Thanks+for+scrolling+through+my+profile!;Hope+to+hear+from+you+soon!+Let%27s+build+something+amazing\" alt=\"Closing Gratitude\" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Thanks+for+scrolling+through+my+profile!;Hope+to+hear+from+you+soon!+Let%27s+build+something+amazing" alt=\"Closing Gratitude\" />
 </p>
 
 <p align="center">
