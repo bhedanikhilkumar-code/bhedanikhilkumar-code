@@ -22,12 +22,17 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Open+To+Work&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Open To Work" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Open to Internships and Collaborations" />
   <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Focus Product Engineering" />
   <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
 </p>
 
 ## Profile Summary
+
 I build software around real workflows with a strong focus on clean UX, useful automation, and maintainable engineering.
 
 My work spans full-stack web apps, Flutter mobile products, and practical tools that solve operational or everyday problems.
@@ -44,12 +49,14 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## What I Build
+
 - **Full-stack platforms** for admin, operations, and workflow-heavy use cases
 - **Flutter apps** with practical offline-first and productivity-focused experiences
 - **Automation tools** that reduce repetitive work through streamlined systems
 - **Developer utilities** that turn structured data into usable product assets
 
 ## Core Expertise
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -70,6 +77,7 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </table>
 
 ## Current Focus
+
 - Designing software that feels **practical, fast, and professional**
 - Building **full-stack and Flutter products** that solve real problems
 - Improving **UI polish, developer workflows, and automation systems**
@@ -83,9 +91,6 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## Featured Projects
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Selected+projects+focused+on+real-world+utility+and+clean+execution;Full-stack+systems%2C+Flutter+products%2C+and+practical+automation+tools" alt="Featured Projects Intro" />
-</p>
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
@@ -106,6 +111,7 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## Selected Work
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -157,14 +163,10 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## Tech Stack
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Tech+Stack&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Tech Stack Divider" />
-</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,docker,firebase,html,css&theme=dark" alt="Tech Stack" />
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React+%7C+TypeScript+%7C+JavaScript-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Frontend" />
@@ -175,9 +177,6 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 ## GitHub Activity
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=GitHub+Activity&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="GitHub Activity Divider" />
-</p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub Stats" />
@@ -185,28 +184,22 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub Streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub Streak" />
 </p>
 
-## Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhedanikhilkumar-code&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Activity Graph" />
 </p>
 
-## Daily Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/38bdf8/bhedanikhilkumar-code" alt="Daily Contribution Heatmap" />
 </p>
 
-## Snake Animation
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ## Education
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Education&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Education Divider" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-Atmiya%20Institute%20of%20Technology%20%26%20Science-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Computer Engineering" />
@@ -214,11 +207,12 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
   <img src="https://img.shields.io/badge/Programming-C%20Programming-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="C Programming" />
 </p>
 
+## Connect With Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Connect+With+Me&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Connect With Me Divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Open+to+internships%2C+collaborations%2C+and+meaningful+engineering+work" alt="Opportunity CTA" />
 </p>
 
-## Connect With Me
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
     <img src="https://img.shields.io/badge/GitHub-View%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="View Projects" />
