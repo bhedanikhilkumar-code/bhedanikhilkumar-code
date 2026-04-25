@@ -207,7 +207,11 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
   <img src="https://img.shields.io/badge/Programming-C%20Programming-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="C Programming" />
 </p>
 
-## Connect With Me
+## Let's Connect
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Open+To+Opportunities&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Open To Opportunities" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Open+to+internships%2C+collaborations%2C+and+meaningful+engineering+work" alt="Opportunity CTA" />
@@ -215,7 +219,7 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="View Projects" />
+    <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="View Projects" />
   </a>
   <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
     <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="Let's Connect" />
@@ -224,13 +228,17 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-0F172A?style=for-the-badge&labelColor=38BDF8&color=0F172A" alt="Open To Opportunities" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-0F172A?style=for-the-badge&labelColor=38BDF8&color=0F172A" alt="Open To Opportunities Badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary.vercel.app/api?username=bhedanikhilkumar-code&title=0&name_color=DBEAFE&ring_color=38BDF8&force_mask=round&bg_color=0F172A&border_radius=12" alt="GitHub Profile Card" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show=profile&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8&ring_color=60A5FA&border_radius=12" alt="Nikhil Bheda Profile Stats" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Thanks+for+visiting!+Let%27s+connect+and+build+something+great+together&fontColor=7DD3FC&fontSize=20&fontAlignY=30&animation=fadeIn" alt="Footer Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+Let%27s+build+something+great+together" alt="Footer Tagline" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Thanks+for+visiting!&fontColor=7DD3FC&fontSize=22&fontAlignY=30&animation=fadeIn" alt="Footer Banner" />
 </p>
