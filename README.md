@@ -26,7 +26,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Open to Internships and Collaborations" />
   <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Focus Product Engineering" />
   <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
 </p>
@@ -87,7 +86,6 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
   <img src="https://img.shields.io/badge/Current%20Focus-Product%20Quality-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Product Quality" />
   <img src="https://img.shields.io/badge/Current%20Focus-UI%20Polish-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="UI Polish" />
   <img src="https://img.shields.io/badge/Current%20Focus-Automation%20Systems-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Automation Systems" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Open To Internships and Collaborations" />
 </p>
 
 ## Featured Projects
@@ -210,11 +208,11 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 ## Let's Connect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Open+To+Opportunities&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Open To Opportunities" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,20:1D4ED8,50:38BDF8,80:0EA5E9,100:7DD3FC&text=Let%27s+Connect!&fontColor=ffffff&fontSize=36&fontAlignY=42&desc=Open+to+internships%2C+collaborations%2C+and+meaningful+work&descAlignY=65&descSize=16&animation=twinkling" alt="Let's Connect Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Open+to+internships%2C+collaborations%2C+and+meaningful+engineering+work" alt="Opportunity CTA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+products+that+matter;Open+to+internships+%26+collaborations;Let%27s+create+something+great+together" alt="Connect Typing Animation" />
 </p>
 
 <p align="center">
@@ -236,9 +234,9 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+Let%27s+build+something+great+together" alt="Footer Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Thanks+for+scrolling+through+my+profile!;Hope+to+hear+from+you+soon!+Let%27s+build+something+amazing\" alt=\"Closing Gratitude\" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Thanks+for+visiting!&fontColor=7DD3FC&fontSize=22&fontAlignY=30&animation=fadeIn" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,30:1D4ED8,60:38BDF8,100:7DD3FC&text=See+You+Soon!&fontColor=ffffff&fontSize=32&fontAlignY=40&desc=Nikhil+Bheda+%7C+Full-Stack+Developer+%7C+Flutter+Builder&descAlignY=62&descSize=14&animation=fadeIn" alt="Farewell Banner" />
 </p>
