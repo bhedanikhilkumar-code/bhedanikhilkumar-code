@@ -238,3 +238,29 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,30:1D4ED8,60:38BDF8,100:7DD3FC&text=See+You+Soon!&fontColor=ffffff&fontSize=32&fontAlignY=40&desc=Nikhil+Bheda+%7C+Full-Stack+Developer+%7C+Flutter+Builder&descAlignY=62&descSize=14&animation=fadeIn" alt="Farewell Banner" />
 </p>
+
+<!-- PORTFOLIO_DOC_STANDARD_START -->
+
+## Portfolio Documentation Standard
+
+This profile follows a documentation-first portfolio style: every highlighted repository should clearly explain its product goal, tech stack, architecture, setup process, roadmap, and professional review notes.
+
+```mermaid
+flowchart LR
+    Profile[GitHub Profile] --> Projects[Featured Projects]
+    Projects --> Docs[Professional READMEs]
+    Docs --> Reviewers[Recruiters / Developers]
+    Docs --> Growth[Future Improvements]
+```
+
+**Repository polish checklist used across the portfolio:**
+
+- Clear one-line value proposition
+- Professional badges and stack indicators
+- Architecture or workflow diagram
+- Feature/capability table
+- Local setup commands
+- Quality checks and roadmap
+- Contribution and license notes
+
+<!-- PORTFOLIO_DOC_STANDARD_END -->
