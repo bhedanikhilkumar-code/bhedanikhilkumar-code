@@ -1,3 +1,7 @@
+<!-- REPO_HEALTH_BADGE_START -->
+[![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml)
+<!-- REPO_HEALTH_BADGE_END -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder%20%7C%20Product-Focused%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="Nikhil Bheda Banner" />
 </p>
@@ -274,7 +278,11 @@ flowchart LR
 | [Architecture](docs/ARCHITECTURE.md) | System layers, workflow, data/state model, and extension points. |
 | [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
 | [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger product. |
+| [Quality Standard](docs/QUALITY.md) | Repository health checks, review standards, and quality gates. |
+| [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final share/recruiter review checklist for a stronger GitHub impression. |
 | [Contributing](CONTRIBUTING.md) | Branching, commit, review, and quality guidelines. |
 | [Security](SECURITY.md) | Responsible disclosure and safe configuration notes. |
+| [Support](SUPPORT.md) | How to ask for help or report issues clearly. |
+| [Code of Conduct](CODE_OF_CONDUCT.md) | Collaboration expectations for respectful project activity. |
 
 <!-- PROJECT_DOCS_HUB_END -->
