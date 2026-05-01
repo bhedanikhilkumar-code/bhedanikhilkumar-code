@@ -211,6 +211,10 @@ My work spans full-stack web apps, Flutter mobile products, and practical tools 
 
 ## Let's Connect
 
+**📧 Email:** bhedanikhilkumar@gmail.com  
+**🔗 LinkedIn:** [linkedin.com/in/bhedanikhilkumar](https://www.linkedin.com/in/bhedanikhilkumar/)
+**📄 Resume:** [RESUME.md](RESUME.md)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,20:1D4ED8,50:38BDF8,80:0EA5E9,100:7DD3FC&text=Let%27s+Connect!&fontColor=ffffff&fontSize=36&fontAlignY=42&desc=Open+to+internships%2C+collaborations%2C+and+meaningful+work&descAlignY=65&descSize=16&animation=twinkling" alt="Let's Connect Banner" />
 </p>
