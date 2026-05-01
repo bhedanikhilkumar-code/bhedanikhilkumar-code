@@ -4,6 +4,7 @@
 
 📧 bhedanikhilkumar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhedanikhilkumar/)  
+🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 🌐 [GitHub](https://github.com/bhedanikhilkumar-code)
 
 ---
