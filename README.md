@@ -1,5 +1,5 @@
 <!-- REPO_HEALTH_BADGE_START -->
-[![Repository hh Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml)
+[![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml)
 <!-- REPO_HEALTH_BADGE_END -->
 
 <p align="center">
@@ -291,3 +291,4 @@ flowchart LR
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Collaboration expectations for respectful project activity. |
 
 <!-- PROJECT_DOCS_HUB_END -->
+🔥
