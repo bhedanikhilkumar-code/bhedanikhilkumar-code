@@ -144,7 +144,18 @@ For a fast review, use this path:
 2. Open **ExporTrack AI** or **Planora** for full-stack/product thinking
 3. Open **Site Surveyor Compass** for Flutter/mobile workflow thinking
 4. Open **AutoPortfolio Builder** or **Developer Avatar Generator** for automation/dev-tool direction
-5. Read the [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) for a structured evaluation path
+5. Use the [Project Showcase Catalog](docs/PROJECT_SHOWCASE.md) for a categorized portfolio index
+6. Read the [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) for a structured evaluation path
+
+## Portfolio Scorecard
+
+| Area | Signal |
+| --- | --- |
+| **Full-stack platforms** | Logistics, calendar/admin, study planning, portfolio automation |
+| **Flutter/mobile apps** | GPS field tools, finance, notes, Panchang, emoji story workflows |
+| **Developer tools** | Avatar generation, badge generation, project planning, CLI productivity |
+| **Documentation layer** | Architecture, roadmap, quality standard, review guide, showcase catalog |
+| **Metadata polish** | Public repo descriptions/topics aligned for GitHub cards and search |
 
 ## Toolbox
 
@@ -246,6 +257,7 @@ flowchart LR
 | [Architecture](docs/ARCHITECTURE.md) | System layers, workflow, data/state model, and extension points. |
 | [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
 | [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger portfolio asset. |
+| [Project Showcase](docs/PROJECT_SHOWCASE.md) | Categorized portfolio catalog across full-stack, Flutter, automation, AI, and applied projects. |
 | [Quality Standard](docs/QUALITY.md) | Repository health checks, review standards, and quality gates. |
 | [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) | Fast review path for recruiters, mentors, collaborators, and developers. |
 | [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final share/recruiter review checklist for a stronger GitHub impression. |

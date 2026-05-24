@@ -46,6 +46,7 @@ Public portfolio repositories should have:
 - A homepage URL when a working demo exists.
 - README badges and links that match the actual project state.
 - Consistent naming and spelling across GitHub metadata, README, and resume.
+- Inclusion in the project showcase catalog when the repository is part of the portfolio story.
 
 ## Definition of Strong
 
@@ -66,5 +67,6 @@ After every meaningful update:
 - Update README if the user-facing behavior changes.
 - Update architecture docs if structure changes.
 - Update roadmap when items are completed or reprioritized.
+- Update the project showcase catalog when a repository becomes more/less important.
 - Add screenshots or demos when the UI/workflow becomes visually important.
 - Keep commits small and meaningful.

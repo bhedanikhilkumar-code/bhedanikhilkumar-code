@@ -5,10 +5,11 @@ This guide is for recruiters, mentors, collaborators, and developers who want to
 ## 60-Second Review Path
 
 1. **Start with the profile README** — check the recruiter snapshot, featured work, and best entry points.
-2. **Open one full-stack project** — recommended: `ExporTrack-AI` or `Planora`.
-3. **Open one Flutter/mobile project** — recommended: `site-surveyor-compass` or `money-king`.
-4. **Check one automation/dev-tool project** — recommended: `AutoPortfolio-Builder`, `Developer-Avatar-Generator`, or `devbadge-generator`.
-5. **Look for repository quality** — README clarity, topics, setup notes, roadmap, and quality documentation.
+2. **Use the [Project Showcase Catalog](PROJECT_SHOWCASE.md)** — pick the most relevant category quickly.
+3. **Open one full-stack project** — recommended: `ExporTrack-AI` or `Planora`.
+4. **Open one Flutter/mobile project** — recommended: `site-surveyor-compass` or `money-king`.
+5. **Check one automation/dev-tool project** — recommended: `AutoPortfolio-Builder`, `Developer-Avatar-Generator`, or `devbadge-generator`.
+6. **Look for repository quality** — README clarity, topics, setup notes, roadmap, and quality documentation.
 
 ## What To Look For
 
