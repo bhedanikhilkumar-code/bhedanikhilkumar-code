@@ -22,6 +22,12 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bhedanikhilkumar-code?style=for-the-badge&color=38BDF8&labelColor=020617" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/bhedanikhilkumar-code?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7DD3FC&labelColor=020617" alt="GitHub stars" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=840&lines=Full-stack+platforms+%E2%80%A2+Flutter+apps+%E2%80%A2+automation+tools;Clean+UX%2C+maintainable+architecture%2C+and+practical+delivery;Open+to+internships%2C+collaborations%2C+and+meaningful+engineering+work" alt="Profile typing animation" />
 </p>
 
@@ -61,6 +67,10 @@ I build practical software around real workflows — not just demo screens. My f
 - **Automation and developer tools** that reduce repetitive work, generate assets, or improve project presentation
 - **Portfolio-grade repositories** with setup steps, architecture notes, roadmap, quality checks, and review-friendly documentation
 
+<p align="center">
+  <img src="assets/portfolio-map.svg" alt="Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools" />
+</p>
+
 ## Featured Work
 
 <p align="center">
@@ -88,6 +98,15 @@ I build practical software around real workflows — not just demo screens. My f
 | **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurement tools, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows |
 | **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that turns GitHub/LinkedIn input into portfolio-ready content and exports | FastAPI, Python, JavaScript, authentication, admin tools, content automation |
 
+## Best Entry Points
+
+If you are reviewing my work quickly, start here:
+
+1. **Product + dashboard work:** [ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
+2. **Full-stack scheduling/data modeling:** [Planora](https://github.com/bhedanikhilkumar-code/Planora)
+3. **Flutter/mobile utility UX:** [Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
+4. **Automation + backend tooling:** [AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
+
 ## Engineering Style
 
 <table>
@@ -109,6 +128,13 @@ I build practical software around real workflows — not just demo screens. My f
   </tr>
 </table>
 
+## Quality Signals
+
+- Repository health workflow checks required portfolio files and documentation structure
+- Profile README is designed for quick recruiter scanning plus deeper technical review
+- Featured repositories are positioned with product purpose, tech stack, and engineering signal
+- Documentation hub keeps architecture, roadmap, quality standards, and review checklist visible
+
 ## Toolbox
 
 <p align="center">
@@ -129,6 +155,8 @@ I build practical software around real workflows — not just demo screens. My f
 - **[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations
 - **[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and export flows
 - **[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app built with Flutter and Dart
+- **[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — Flutter story/emoji creation experience with playful mobile UI direction
+- **[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI
 
 ## GitHub Activity
 

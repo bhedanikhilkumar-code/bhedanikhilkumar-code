@@ -1,0 +1,67 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio Focus Map</title>
+  <desc id="desc">A dark portfolio map showing Nikhil Bheda's four focus areas: workflow platforms, Flutter apps, automation systems, and developer tools.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#082F49"/>
+    </linearGradient>
+    <linearGradient id="line" x1="120" y1="250" x2="1080" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2563EB"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#7DD3FC"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 120) rotate(90) scale(360 700)">
+      <stop stop-color="#38BDF8" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#020617" flood-opacity="0.5"/>
+    </filter>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#7DD3FC" opacity="0.12"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="500" rx="30" fill="url(#bg)"/>
+  <rect width="1200" height="500" rx="30" fill="url(#dots)"/>
+  <rect width="1200" height="500" rx="30" fill="url(#glow)"/>
+
+  <text x="600" y="66" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="800">Portfolio Focus Map</text>
+  <text x="600" y="98" text-anchor="middle" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500">Practical software, clean presentation, and recruiter-friendly engineering signals</text>
+
+  <path d="M230 250H970" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+  <path d="M600 175V325" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+  <circle cx="600" cy="250" r="58" fill="#020617" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)"/>
+  <text x="600" y="242" text-anchor="middle" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">PRODUCT</text>
+  <text x="600" y="265" text-anchor="middle" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">ENGINEERING</text>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="145" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#2563EB" stroke-opacity="0.45"/>
+    <text x="102" y="188" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Workflow Platforms</text>
+    <text x="102" y="222" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Dashboards • APIs • Admin flows • Data models</text>
+    <text x="102" y="252" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">ExporTrack AI • Planora</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="770" y="145" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#38BDF8" stroke-opacity="0.45"/>
+    <text x="802" y="188" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Flutter Apps</text>
+    <text x="802" y="222" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Offline-first UX • Local storage • Mobile polish</text>
+    <text x="802" y="252" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Site Surveyor • Money King • Sanskriti</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="315" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#0EA5E9" stroke-opacity="0.45"/>
+    <text x="102" y="358" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Automation Systems</text>
+    <text x="102" y="392" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Generators • Planning tools • Reusable workflows</text>
+    <text x="102" y="422" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">AutoPortfolio • Smart Study Planner</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="770" y="315" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#7DD3FC" stroke-opacity="0.45"/>
+    <text x="802" y="358" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Developer Tools</text>
+    <text x="802" y="392" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">CLI/API ideas • Badges • SVG assets • Docs</text>
+    <text x="802" y="422" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">DevBadge • Avatar Generator</text>
+  </g>
+</svg>
