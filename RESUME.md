@@ -2,10 +2,10 @@
 
 **Full-Stack Developer | Flutter Builder | Product-Focused Engineer**
 
-📧 bhedanikhilkumar@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhedanikhilkumar/)  
-🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-🌐 [GitHub](https://github.com/bhedanikhilkumar-code)
+- 📧 bhedanikhilkumar@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
+- 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
+- 🌐 [GitHub](https://github.com/bhedanikhilkumar-code)
 
 ---
 

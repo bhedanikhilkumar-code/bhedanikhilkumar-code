@@ -3,256 +3,158 @@
 <!-- REPO_HEALTH_BADGE_END -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,35:1D4ED8,65:38BDF8,100:7DD3FC&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder%20%7C%20Product-Focused%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="Nikhil Bheda Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+real+products+instead+of+tutorial-only+projects;Focused+on+clean+UX%2C+practical+automation%2C+and+solid+engineering;Open+to+internships%2C+collaborations%2C+and+impactful+software+work" alt="Typing Intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,35:1D4ED8,70:38BDF8,100:7DD3FC&text=Nikhil%20Bheda&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Flutter%20Builder%20%7C%20Product-Focused%20Engineer&descAlignY=59&descSize=18&animation=fadeIn" alt="Nikhil Bheda GitHub banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://img.shields.io/badge/GitHub-bhedanikhilkumar--code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-bhedanikhilkumar--code-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="GitHub profile" />
   </a>
-  <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Bheda-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Bheda-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn profile" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:bhedanikhilkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0284C7" alt="Email contact" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/bhedanikhilkumar-code?style=for-the-badge&color=38BDF8&labelColor=0F172A" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/bhedanikhilkumar-code?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=38BDF8&labelColor=0F172A" alt="GitHub Stars" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+real-world+software+with+clean+UX;Flutter%2C+full-stack+web%2C+automation%2C+and+developer+tools;Open+to+internships%2C+collaboration%2C+and+meaningful+engineering+work" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=28&color=0:020617,40:1D4ED8,80:38BDF8&text=Open+To+Work&fontColor=ffffff&fontSize=16&fontAlignY=32&animation=fadeIn" alt="Open To Work" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Product%20Engineering-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Focus Product Engineering" />
-  <img src="https://img.shields.io/badge/Approach-Clean%20%26%20Practical-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Approach Clean and Practical" />
-</p>
+## 👋 About Me
 
-## Profile Summary
+I am a **Computer Engineering student** from Rajkot, Gujarat, focused on building practical software that looks polished, solves clear problems, and is maintainable beyond the demo stage.
 
-I build software around real workflows with a strong focus on clean UX, useful automation, and maintainable engineering.
+My projects mainly sit at the intersection of **full-stack platforms**, **Flutter mobile apps**, **workflow automation**, and **developer productivity tools**.
 
-My work spans full-stack web apps, Flutter mobile products, and practical tools that solve operational or everyday problems.
+- 🔭 Currently building production-style portfolio projects with cleaner architecture and documentation
+- 🧩 Interested in workflow-heavy products, dashboards, offline-first mobile apps, and automation systems
+- 🚀 Open to internships, collaborations, freelance-style product work, and learning-focused opportunities
+- 🎯 Goal: ship useful software with strong UX, clear documentation, and reliable engineering foundations
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=17&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Product+Thinking;Full-Stack+Engineering;Flutter+Development;Automation+Systems" alt="Profile Focus Animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Builds-Real%20Products-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Builds Real Products" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Node.js-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="React TypeScript Node.js" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Flutter Dart" />
-  <img src="https://img.shields.io/badge/Data-PostgreSQL%20%7C%20MySQL-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="PostgreSQL MySQL" />
-</p>
-
-## What I Build
-
-- **Full-stack platforms** for admin, operations, and workflow-heavy use cases
-- **Flutter apps** with practical offline-first and productivity-focused experiences
-- **Automation tools** that reduce repetitive work through streamlined systems
-- **Developer utilities** that turn structured data into usable product assets
-
-## Core Expertise
+## ⚡ Quick Highlights
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Product Thinking</strong><br/>
-      Building software around real workflows, usability, and delivery value.
+      <strong>Product-Focused Engineering</strong><br/>
+      I prefer building apps around real user workflows, not just isolated features.
       <br/><br/>
-      <strong>Full-Stack Engineering</strong><br/>
-      Creating reliable web systems with clean architecture and maintainable code.
+      <strong>Full-Stack Development</strong><br/>
+      React, TypeScript, Node.js, Express, FastAPI, PostgreSQL, MySQL, and Prisma.
     </td>
     <td width="50%" valign="top">
-      <strong>Mobile Development</strong><br/>
-      Shipping Flutter experiences focused on utility, speed, and polish.
+      <strong>Flutter Mobile Apps</strong><br/>
+      Dart and Flutter apps with clean UI, local storage, productivity flows, and practical utilities.
       <br/><br/>
       <strong>Automation Mindset</strong><br/>
-      Reducing manual work through practical tools and workflow design.
+      Tools that reduce repetitive work, improve project presentation, and make workflows smoother.
     </td>
   </tr>
 </table>
 
-## Current Focus
-
-- Designing software that feels **practical, fast, and professional**
-- Building **full-stack and Flutter products** that solve real problems
-- Improving **UI polish, developer workflows, and automation systems**
-- Looking for **internships, collaborations, and meaningful engineering work**
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20Focus-Product%20Quality-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Product Quality" />
-  <img src="https://img.shields.io/badge/Current%20Focus-UI%20Polish-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="UI Polish" />
-  <img src="https://img.shields.io/badge/Current%20Focus-Automation%20Systems-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Automation Systems" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,fastapi,flutter,dart,postgres,mysql,prisma,firebase,docker,git,github,html,css&theme=dark" alt="Tech stack icons" />
 </p>
 
-## Featured Projects
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20JavaScript-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Frontend stack" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Backend stack" />
+  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Mobile stack" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL%20%7C%20Prisma-0F172A?style=flat-square&labelColor=7DD3FC&color=0F172A" alt="Database stack" />
+</p>
+
+## 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="ExporTrack AI" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="ExporTrack AI pinned repository" />
   </a>
   <a href="https://github.com/bhedanikhilkumar-code/Planora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=Planora&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Planora" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=Planora&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Planora pinned repository" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/site-surveyor-compass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=site-surveyor-compass&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Site Surveyor Compass" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=site-surveyor-compass&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Site Surveyor Compass pinned repository" />
   </a>
   <a href="https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=AutoPortfolio-Builder&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="AutoPortfolio Builder" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=AutoPortfolio-Builder&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="AutoPortfolio Builder pinned repository" />
   </a>
 </p>
 
-## Selected Work
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics workflow platform for shipment tracking, document verification, and operational dashboards. | React, TypeScript, Node.js, Express, MySQL |
+| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed workflows. | React, TypeScript, Node.js, Prisma, PostgreSQL |
+| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Flutter field utility app for GPS workflows, measurement tools, waypoints, and on-site reporting. | Flutter, Dart, Provider, Hive, Firebase |
+| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator using GitHub/LinkedIn inputs, authentication, admin tooling, and export workflows. | FastAPI, Python, JavaScript |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>ExporTrack AI</strong><br/>
-      Full-stack logistics workflow platform for shipment tracking, document verification, and operational visibility.
-      <br/><br/>
-      <strong>Stack:</strong> React, TypeScript, Node.js, Express, MySQL<br/>
-      <strong>Strength:</strong> Business workflow design, dashboard visibility, and document handling.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Planora</strong><br/>
-      Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
-      <br/><br/>
-      <strong>Stack:</strong> React, TypeScript, Node.js, Express, Prisma, PostgreSQL<br/>
-      <strong>Strength:</strong> Monorepo architecture, validation, admin tooling, and recurring scheduling logic.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Site Surveyor Compass</strong><br/>
-      Flutter-based field utility app for surveying, navigation, measurement, waypoint management, and on-site reporting.
-      <br/><br/>
-      <strong>Stack:</strong> Flutter, Dart, Provider, Hive, Firebase<br/>
-      <strong>Strength:</strong> Mobile utility UX, sensor integration, and field productivity workflows.
-    </td>
-    <td width="50%" valign="top">
-      <strong>AutoPortfolio Builder</strong><br/>
-      FastAPI-based portfolio generator that turns GitHub and LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
-      <br/><br/>
-      <strong>Stack:</strong> FastAPI, Python, JavaScript, HTML/CSS<br/>
-      <strong>Strength:</strong> Developer tooling, automation, and structured content generation.
-    </td>
-  </tr>
-</table>
+## 📌 More Work
+
+- **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic developer avatars as SVG through API, CLI, and web UI
+- **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, sync, passcode, and biometric unlock
+- **[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations
+- **[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and export flows
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project%20Style-Practical%20%26%20Product%20Focused-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Practical and Product Focused" />
-  <img src="https://img.shields.io/badge/Delivery-Clean%20UX%20%26%20Useful%20Automation-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Clean UX and Useful Automation" />
-  <img src="https://img.shields.io/badge/Build%20Style-Real%20Use%20Cases-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Real Use Cases" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <sub>
-    Also built:
-    <a href="https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator">Developer-Avatar-Generator</a>,
-    <a href="https://github.com/bhedanikhilkumar-code/money-king">money-king</a>, and
-    <a href="https://github.com/bhedanikhilkumar-code/Smart-Study-Planner">Smart-Study-Planner</a>.
-  </sub>
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,python,flutter,dart,postgres,mysql,git,github,docker,firebase,html,css&theme=dark" alt="Tech Stack" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React+%7C+TypeScript+%7C+JavaScript-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js+%7C+FastAPI+%7C+Python-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="Backend" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter+%7C+Dart-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="Mobile" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL+%7C+MySQL-0F172A?style=flat-square&labelColor=7DD3FC&color=0F172A" alt="Database" />
-  <img src="https://img.shields.io/badge/Tools-Git+%7C+Docker+%7C+Firebase-0F172A?style=flat-square&labelColor=94A3B8&color=0F172A" alt="Tools" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhedanikhilkumar-code&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub contribution snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhedanikhilkumar-code&bg_color=0f172a&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="Activity Graph" />
-</p>
+## 🎓 Education
+
+- **Computer Engineering** — Atmiya Institute of Technology & Science
+- **English:** EF SET B2 Upper Intermediate
+- **Strong interests:** product engineering, full-stack systems, mobile UX, automation, and practical AI-assisted workflows
+
+## 🤝 Let's Connect
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/bhedanikhilkumar-code" alt="Daily Contribution Heatmap" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
-## Education
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Atmiya%20Institute%20of%20Technology%20%26%20Science-0F172A?style=flat-square&labelColor=38BDF8&color=0F172A" alt="Computer Engineering" />
-  <img src="https://img.shields.io/badge/EF%20SET-B2%20Upper%20Intermediate-0F172A?style=flat-square&labelColor=2563EB&color=0F172A" alt="EF SET" />
-  <img src="https://img.shields.io/badge/Programming-C%20Programming-0F172A?style=flat-square&labelColor=0EA5E9&color=0F172A" alt="C Programming" />
-</p>
-
-## Let's Connect
-
-**📧 Email:** bhedanikhilkumar@gmail.com  
-**🔗 LinkedIn:** [linkedin.com/in/bhedanikhilkumar](https://www.linkedin.com/in/bhedanikhilkumar/)
-**📄 Resume:** [RESUME.md](RESUME.md)
-**🌐 Portfolio:** [bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,20:1D4ED8,50:38BDF8,80:0EA5E9,100:7DD3FC&text=Let%27s+Connect!&fontColor=ffffff&fontSize=36&fontAlignY=42&desc=Open+to+internships%2C+collaborations%2C+and+meaningful+work&descAlignY=65&descSize=16&animation=twinkling" alt="Let's Connect Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+products+that+matter;Open+to+internships+%26+collaborations;Let%27s+create+something+great+together" alt="Connect Typing Animation" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://img.shields.io/badge/GitHub-View%20My%20Projects-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=1E293B" alt="View Projects" />
+  <a href="mailto:bhedanikhilkumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bhedanikhilkumar%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/bhedanikhilkumar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="Let's Connect" />
+  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn" />
+  </a>
+  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Website-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Portfolio website" />
+  </a>
+  <a href="RESUME.md">
+    <img src="https://img.shields.io/badge/Resume-Read%20More-0F172A?style=for-the-badge&logo=readme&logoColor=white&labelColor=64748B" alt="Resume" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20opportunities-0F172A?style=for-the-badge&labelColor=38BDF8&color=0F172A" alt="Open To Opportunities Badge" />
-</p>
-
-<p align="center">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=16&pause=1200&color=7DD3FC&center=true&vCenter=true&width=720&lines=Thanks+for+scrolling+through+my+profile!;Hope+to+hear+from+you+soon!+Let%27s+build+something+amazing" alt=\"Closing Gratitude\" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,30:1D4ED8,60:38BDF8,100:7DD3FC&text=See+You+Soon!&fontColor=ffffff&fontSize=32&fontAlignY=40&desc=Nikhil+Bheda+%7C+Full-Stack+Developer+%7C+Flutter+Builder&descAlignY=62&descSize=14&animation=fadeIn" alt="Farewell Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,35:1D4ED8,70:38BDF8,100:7DD3FC" alt="Footer wave" />
 </p>
 
 <!-- PORTFOLIO_DOC_STANDARD_START -->
 
 ## Portfolio Documentation Standard
 
-This profile follows a documentation-first portfolio style: every highlighted repository should clearly explain its product goal, tech stack, architecture, setup process, roadmap, and professional review notes.
+This profile follows a documentation-first portfolio style: highlighted projects should clearly explain their product goal, tech stack, architecture, setup process, roadmap, and review notes.
 
 ```mermaid
 flowchart LR
@@ -282,7 +184,7 @@ flowchart LR
 | --- | --- |
 | [Architecture](docs/ARCHITECTURE.md) | System layers, workflow, data/state model, and extension points. |
 | [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
-| [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger product. |
+| [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger portfolio asset. |
 | [Quality Standard](docs/QUALITY.md) | Repository health checks, review standards, and quality gates. |
 | [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final share/recruiter review checklist for a stronger GitHub impression. |
 | [Contributing](CONTRIBUTING.md) | Branching, commit, review, and quality guidelines. |
@@ -291,4 +193,3 @@ flowchart LR
 | [Code of Conduct](CODE_OF_CONDUCT.md) | Collaboration expectations for respectful project activity. |
 
 <!-- PROJECT_DOCS_HUB_END -->
-
