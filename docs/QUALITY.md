@@ -11,6 +11,7 @@ This document defines what makes the repository strong, review-ready, and portfo
 | Safe collaboration | Issue templates, PR template, security policy, support guide, and code of conduct exist. |
 | Repeatable checks | Repository health workflow validates the professional documentation layer. |
 | Portfolio readiness | A reviewer can understand the project without asking for missing context. |
+| Metadata polish | Repository descriptions, topics, and homepage links communicate the project clearly in GitHub cards/search. |
 
 ## Stack Profile
 
@@ -18,7 +19,7 @@ This document defines what makes the repository strong, review-ready, and portfo
 | --- | --- |
 | Detected stack | Project-specific |
 | Primary language | Project-specific |
-| Topics | github-profile, portfolio, profile-readme |
+| Topics | github-profile, profile-readme, developer-portfolio, portfolio, documentation, full-stack, flutter |
 
 ## Recommended Checks
 
@@ -35,6 +36,16 @@ The GitHub Actions workflow `.github/workflows/repository-health.yml` checks tha
 - Contribution, security, support, and conduct files.
 - Issue and pull request templates.
 - Clear repository ownership.
+
+## Metadata Standard
+
+Public portfolio repositories should have:
+
+- A concise description that explains product value, not just technology.
+- Topics covering framework, language, product category, and recruiter/search keywords.
+- A homepage URL when a working demo exists.
+- README badges and links that match the actual project state.
+- Consistent naming and spelling across GitHub metadata, README, and resume.
 
 ## Definition of Strong
 

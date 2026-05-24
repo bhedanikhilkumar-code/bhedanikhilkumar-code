@@ -35,6 +35,7 @@ jobs:
               "docs/CASE_STUDY.md",
               "docs/ROADMAP.md",
               "docs/QUALITY.md",
+              "docs/PORTFOLIO_REVIEW_GUIDE.md",
               "docs/REVIEW_CHECKLIST.md",
           ]
 
@@ -52,6 +53,7 @@ jobs:
               "README links architecture": "docs/ARCHITECTURE.md" in readme,
               "README links roadmap": "docs/ROADMAP.md" in readme,
               "README links quality standard": "docs/QUALITY.md" in readme,
+              "README links portfolio review guide": "docs/PORTFOLIO_REVIEW_GUIDE.md" in readme,
           }
           failed = [name for name, ok in readme_checks.items() if not ok]
           if failed:

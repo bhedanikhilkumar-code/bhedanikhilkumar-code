@@ -133,7 +133,18 @@ If you are reviewing my work quickly, start here:
 - Repository health workflow checks required portfolio files and documentation structure
 - Profile README is designed for quick recruiter scanning plus deeper technical review
 - Featured repositories are positioned with product purpose, tech stack, and engineering signal
+- Public repository descriptions and topics are polished for GitHub search/cards
 - Documentation hub keeps architecture, roadmap, quality standards, and review checklist visible
+
+## Portfolio Review Guide
+
+For a fast review, use this path:
+
+1. Scan the **Recruiter Snapshot**
+2. Open **ExporTrack AI** or **Planora** for full-stack/product thinking
+3. Open **Site Surveyor Compass** for Flutter/mobile workflow thinking
+4. Open **AutoPortfolio Builder** or **Developer Avatar Generator** for automation/dev-tool direction
+5. Read the [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) for a structured evaluation path
 
 ## Toolbox
 
@@ -236,6 +247,7 @@ flowchart LR
 | [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
 | [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger portfolio asset. |
 | [Quality Standard](docs/QUALITY.md) | Repository health checks, review standards, and quality gates. |
+| [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) | Fast review path for recruiters, mentors, collaborators, and developers. |
 | [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final share/recruiter review checklist for a stronger GitHub impression. |
 | [Contributing](CONTRIBUTING.md) | Branching, commit, review, and quality guidelines. |
 | [Security](SECURITY.md) | Responsible disclosure and safe configuration notes. |
