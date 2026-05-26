@@ -1,6 +1,6 @@
 # Nikhil Bheda
 
-**Full-Stack Developer | Flutter Builder | Product-Focused Engineering Student**
+**Full-Stack Developer | Flutter Builder | Product-Focused Computer Engineering Student**
 
 - 📧 bhedanikhilkumar@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
@@ -12,9 +12,9 @@
 
 ## Professional Summary
 
-Computer Engineering student focused on building practical software products with clean UX, maintainable architecture, and strong documentation. Experienced through portfolio projects across full-stack web platforms, Flutter mobile apps, automation tools, and developer utilities.
+Computer Engineering student building practical software products across full-stack web, Flutter mobile, automation, and developer tooling. Strong interest in workflow-heavy applications: dashboards, admin systems, mobile productivity apps, automation pipelines, and tools that make repetitive work faster.
 
-I am especially interested in workflow-heavy products: dashboards, admin systems, mobile productivity apps, automation pipelines, and tools that reduce repetitive work.
+Known for clean UI direction, documentation-first repositories, maintainable project structure, and product thinking that makes portfolio projects easier for recruiters and developers to evaluate quickly.
 
 ---
 
@@ -70,6 +70,7 @@ Portfolio generator that turns GitHub/LinkedIn inputs into portfolio-ready conte
 - **Smart Study Planner:** study planning system with scheduling, backlog tracking, analytics, and revision recommendations
 - **DevBadge Generator:** animated badge generator with presets, Markdown copy, and export workflows
 - **Sanskriti Panchang:** Flutter Hindu calendar app
+- **RepoNova100:** AI-assisted project idea planner with FastAPI backend, tests, and CI
 
 ---
 

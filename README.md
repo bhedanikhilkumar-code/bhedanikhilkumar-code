@@ -28,50 +28,37 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=840&lines=Full-stack+platforms+%E2%80%A2+Flutter+apps+%E2%80%A2+automation+tools;Clean+UX%2C+maintainable+architecture%2C+and+practical+delivery;Open+to+internships%2C+collaborations%2C+and+meaningful+engineering+work" alt="Profile typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+developer+%E2%80%A2+Flutter+builder+%E2%80%A2+automation-minded+engineer;I+build+workflow-first+apps+with+clean+UX+and+maintainable+architecture;Open+to+internships%2C+collaborations%2C+and+real+product+work" alt="Profile typing animation" />
 </p>
 
 ---
 
-## Recruiter Snapshot
+## Professional Snapshot
 
-<table>
-  <tr>
-    <td width="28%"><strong>Role Target</strong></td>
-    <td>Full-stack developer, Flutter developer, junior software engineer, product-focused engineering intern</td>
-  </tr>
-  <tr>
-    <td><strong>Strengths</strong></td>
-    <td>Workflow-heavy web apps, polished mobile utilities, automation tools, clean README/documentation, product thinking</td>
-  </tr>
-  <tr>
-    <td><strong>Main Stack</strong></td>
-    <td>React, TypeScript, JavaScript, Node.js, Express, FastAPI, Python, Flutter, Dart, PostgreSQL, MySQL, Prisma, Firebase</td>
-  </tr>
-  <tr>
-    <td><strong>Location</strong></td>
-    <td>Rajkot, Gujarat, India</td>
-  </tr>
-  <tr>
-    <td><strong>Status</strong></td>
-    <td>Open to internships, collaboration, freelance-style product work, and serious learning opportunities</td>
-  </tr>
-</table>
+I am **Nikhil Bheda**, a Computer Engineering student focused on building practical software products that look polished, solve real workflow problems, and are easy for other developers or recruiters to review.
+
+| Area | Focus |
+| --- | --- |
+| **Target roles** | Full-stack developer, Flutter developer, junior software engineer, product-focused engineering intern |
+| **Core strengths** | Workflow platforms, dashboard UX, Flutter utilities, automation tools, documentation-first repositories |
+| **Main stack** | React, TypeScript, JavaScript, Node.js, Express, FastAPI, Python, Flutter, Dart, PostgreSQL, MySQL, Prisma, Firebase |
+| **Location** | Rajkot, Gujarat, India |
+| **Availability** | Open to internships, collaborations, freelance-style product work, and serious learning opportunities |
 
 ## What I Build
 
-I build practical software around real workflows — not just demo screens. My focus is on products that are useful, presentable, and easy for another developer or recruiter to understand quickly.
+I like building software that has a clear purpose beyond the demo screen: dashboards that support decisions, mobile apps that help users finish tasks, and automation tools that reduce repetitive work.
 
-- **Full-stack workflow platforms** with dashboards, authentication, admin flows, APIs, and structured data
-- **Flutter mobile apps** with clean UI, local storage, offline-first thinking, and productivity-focused experiences
-- **Automation and developer tools** that reduce repetitive work, generate assets, or improve project presentation
-- **Portfolio-grade repositories** with setup steps, architecture notes, roadmap, quality checks, and review-friendly documentation
+- **Full-stack workflow platforms** with authentication, admin flows, dashboards, REST APIs, structured data, and review-friendly documentation
+- **Flutter mobile apps** with clean UI, local storage, offline-first thinking, and productivity-oriented experiences
+- **Automation and developer tools** that generate assets, improve project presentation, or make repetitive tasks faster
+- **Portfolio-grade repositories** with setup instructions, architecture notes, roadmaps, quality checks, and clear product positioning
 
 <p align="center">
   <img src="assets/portfolio-map.svg" alt="Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools" />
 </p>
 
-## Featured Work
+## Featured Portfolio Work
 
 <p align="center">
   <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
@@ -91,71 +78,44 @@ I build practical software around real workflows — not just demo screens. My f
   </a>
 </p>
 
-| Project | Product Signal | Engineering Signal |
+| Project | Product value | Engineering signal |
 | --- | --- | --- |
-| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics workflow platform for shipment visibility, document verification, and operational dashboards | React, TypeScript, Node.js, Express, MySQL, dashboard UX, workflow modeling |
-| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar and admin platform with recurrence, ICS import/export, authentication, and event workflows | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design |
-| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurement tools, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows |
-| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that turns GitHub/LinkedIn input into portfolio-ready content and exports | FastAPI, Python, JavaScript, authentication, admin tools, content automation |
+| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics platform for shipment visibility, document verification, and operations dashboards | React, TypeScript, Node.js, Express, MySQL, workflow modeling, dashboard UX |
+| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin system with recurrence, ICS import/export, authentication, and event workflows | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design |
+| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurements, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows |
+| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that converts GitHub/LinkedIn inputs into portfolio-ready content and exports | FastAPI, Python, JavaScript, auth/admin tooling, content automation |
 
-## Best Entry Points
+## Best Review Path
 
-If you are reviewing my work quickly, start here:
+If you are reviewing my work quickly, this path gives the clearest signal:
 
-1. **Product + dashboard work:** [ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
-2. **Full-stack scheduling/data modeling:** [Planora](https://github.com/bhedanikhilkumar-code/Planora)
+1. **Product + dashboard thinking:** [ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
+2. **Scheduling/data modeling:** [Planora](https://github.com/bhedanikhilkumar-code/Planora)
 3. **Flutter/mobile utility UX:** [Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
 4. **Automation + backend tooling:** [AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
+5. **Portfolio index:** [Project Showcase Catalog](docs/PROJECT_SHOWCASE.md)
+6. **Structured evaluation:** [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md)
 
 ## Engineering Style
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Product-first</strong><br/>
-      I start from the workflow: who uses it, what they need to finish, and what friction can be removed.
+      <strong>Product-first thinking</strong><br/>
+      I start from the workflow: who uses it, what they need to finish, and where software can remove friction.
       <br/><br/>
       <strong>Readable architecture</strong><br/>
-      I prefer clear modules, practical naming, setup docs, and repository structure that another developer can follow.
+      I prefer practical naming, clear modules, setup docs, and repository structure that another developer can follow.
     </td>
     <td width="50%" valign="top">
-      <strong>UI polish</strong><br/>
-      I care about spacing, hierarchy, dark professional aesthetics, and screens that feel intentional.
+      <strong>Polished UI direction</strong><br/>
+      I care about spacing, hierarchy, dark professional aesthetics, and interfaces that feel intentional.
       <br/><br/>
       <strong>Automation mindset</strong><br/>
-      If a task is repetitive, I look for a tool, script, template, or workflow improvement to make it faster.
+      If a task is repetitive, I look for a script, template, workflow, or tool that makes it faster and more reliable.
     </td>
   </tr>
 </table>
-
-## Quality Signals
-
-- Repository health workflow checks required portfolio files and documentation structure
-- Profile README is designed for quick recruiter scanning plus deeper technical review
-- Featured repositories are positioned with product purpose, tech stack, and engineering signal
-- Public repository descriptions and topics are polished for GitHub search/cards
-- Documentation hub keeps architecture, roadmap, quality standards, and review checklist visible
-
-## Portfolio Review Guide
-
-For a fast review, use this path:
-
-1. Scan the **Recruiter Snapshot**
-2. Open **ExporTrack AI** or **Planora** for full-stack/product thinking
-3. Open **Site Surveyor Compass** for Flutter/mobile workflow thinking
-4. Open **AutoPortfolio Builder** or **Developer Avatar Generator** for automation/dev-tool direction
-5. Use the [Project Showcase Catalog](docs/PROJECT_SHOWCASE.md) for a categorized portfolio index
-6. Read the [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) for a structured evaluation path
-
-## Portfolio Scorecard
-
-| Area | Signal |
-| --- | --- |
-| **Full-stack platforms** | Logistics, calendar/admin, study planning, portfolio automation |
-| **Flutter/mobile apps** | GPS field tools, finance, notes, Panchang, emoji story workflows |
-| **Developer tools** | Avatar generation, badge generation, project planning, CLI productivity |
-| **Documentation layer** | Architecture, roadmap, quality standard, review guide, showcase catalog |
-| **Metadata polish** | Public repo descriptions/topics aligned for GitHub cards and search |
 
 ## Toolbox
 
@@ -172,13 +132,21 @@ For a fast review, use this path:
 
 ## Project Index
 
-- **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic developer avatars as SVG through API, CLI, and web UI
+- **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic SVG developer avatars through API, CLI, and web UI
 - **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, cloud sync, passcode, and biometric unlock
 - **[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations
 - **[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and export flows
 - **[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app built with Flutter and Dart
 - **[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — Flutter story/emoji creation experience with playful mobile UI direction
 - **[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI
+
+## Quality Signals
+
+- Repository health workflow validates required profile, documentation, and collaboration files
+- Featured repositories are positioned with product purpose, stack, and engineering signal
+- Documentation hub keeps architecture, roadmap, quality standards, and review checklists visible
+- Public repository descriptions and topics are aligned for GitHub cards and search
+- Profile is structured for both fast recruiter scanning and deeper developer review
 
 ## GitHub Activity
 
@@ -203,7 +171,7 @@ For a fast review, use this path:
 
 - **Computer Engineering** — Atmiya Institute of Technology & Science
 - **English:** EF SET B2 Upper Intermediate
-- **Learning direction:** stronger backend architecture, cleaner Flutter state management, testing habits, deployment workflows, and AI-assisted productivity
+- **Currently improving:** backend architecture, Flutter state management, testing habits, deployment workflows, and AI-assisted productivity
 
 ## Connect
 
