@@ -12,6 +12,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED_FILES = [
+    ".gitattributes",
     ".gitignore",
     ".markdownlint.json",
     "README.md",
@@ -149,6 +150,20 @@ def validate_forbidden_widgets() -> None:
         fail("Forbidden flaky README/widget sources found:", forbidden_hits)
 
 
+def validate_line_ending_policy() -> None:
+    gitattributes = repo_path(".gitattributes").read_text(encoding="utf-8", errors="ignore")
+    checks = {
+        ".gitattributes normalizes text to LF": "* text=auto eol=lf" in gitattributes,
+        ".gitattributes marks PNG as binary": "*.png binary" in gitattributes,
+        ".editorconfig requests LF": "end_of_line = lf" in repo_path(".editorconfig").read_text(
+            encoding="utf-8", errors="ignore"
+        ),
+    }
+    failed = [name for name, ok in checks.items() if not ok]
+    if failed:
+        fail("Line-ending policy checks failed:", failed)
+
+
 def warn_suspicious_files() -> None:
     suspicious = [
         str(path.relative_to(ROOT))
@@ -164,6 +179,7 @@ def main() -> None:
     validate_readme()
     validate_relative_links_and_images()
     validate_forbidden_widgets()
+    validate_line_ending_policy()
     warn_suspicious_files()
     print("Repository health check passed.")
 

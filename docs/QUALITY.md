@@ -39,6 +39,7 @@ The local script `scripts/validate_repository_health.py` and GitHub Actions work
 - Issue and pull request templates.
 - Clear repository ownership.
 - `.gitignore` coverage for local caches, environment files, and editor noise.
+- `.gitattributes` and `.editorconfig` line-ending policy for LF-normalized files.
 - Stable Markdown links and SVG assets.
 - No flaky third-party README/widget image sources.
 
