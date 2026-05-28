@@ -34,6 +34,14 @@ REQUIRED_FILES = [
     "docs/REVIEW_CHECKLIST.md",
 ]
 
+FORBIDDEN_PLACEHOLDER_TEXT = [
+    "Project-specific",
+    "TBD",
+    "TODO",
+    "Lorem ipsum",
+    "example.com",
+]
+
 FORBIDDEN_WIDGET_SOURCES = [
     "github-readme-stats.vercel.app",
     "streak-stats.demolab.com",
@@ -150,6 +158,18 @@ def validate_forbidden_widgets() -> None:
         fail("Forbidden flaky README/widget sources found:", forbidden_hits)
 
 
+def validate_placeholder_text() -> None:
+    placeholder_hits: list[str] = []
+    for file in markdown_files():
+        text = file.read_text(encoding="utf-8", errors="ignore")
+        for placeholder in FORBIDDEN_PLACEHOLDER_TEXT:
+            if placeholder in text:
+                placeholder_hits.append(f"{file.relative_to(ROOT)} -> {placeholder}")
+
+    if placeholder_hits:
+        fail("Forbidden placeholder text found:", placeholder_hits)
+
+
 def validate_line_ending_policy() -> None:
     gitattributes = repo_path(".gitattributes").read_text(encoding="utf-8", errors="ignore")
     checks = {
@@ -179,6 +199,7 @@ def main() -> None:
     validate_readme()
     validate_relative_links_and_images()
     validate_forbidden_widgets()
+    validate_placeholder_text()
     validate_line_ending_policy()
     warn_suspicious_files()
     print("Repository health check passed.")

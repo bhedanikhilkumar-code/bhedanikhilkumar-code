@@ -10,11 +10,13 @@ This document explains the project from an engineering-review perspective: layer
 
 ```mermaid
 flowchart LR
-    User[User / Reviewer] --> Interface[Project Interface]
-    Interface --> Logic[Application Logic]
-    Logic --> Data[Data / Device / File Layer]
-    Logic --> Output[UI, Report, Generated Asset, or Action]
-    Output --> User
+    Reviewer[Recruiter / Developer / Collaborator] --> README[Profile README]
+    README --> Featured[Featured Portfolio Work]
+    README --> Index[Project Index]
+    README --> Docs[Documentation Hub]
+    Featured --> Repos[Project Repositories]
+    Index --> Repos
+    Docs --> Review[Review Guides and Quality Standards]
 ```
 
 ## Primary Workflow
@@ -31,34 +33,34 @@ flowchart TD
 
 | Layer | Responsibility | Review Focus |
 | --- | --- | --- |
-| Interface | Screens, pages, commands, forms, or hardware entry points | Is the user flow clear and easy to demo? |
-| State / Logic | Validation, calculations, orchestration, and workflow rules | Is behavior predictable and maintainable? |
-| Data / Services | Local storage, API calls, generated files, device APIs, or models | Is data handled safely and consistently? |
-| Presentation | README, diagrams, screenshots, and demo notes | Can someone understand the project quickly? |
-| Quality | Tests, linting, review checklist, and roadmap | Can the project grow without becoming messy? |
+| Profile README | First impression, positioning, featured work, review path, and contact links | Can a reviewer understand the profile in 30 seconds? |
+| Project Index | Categorized project list across full-stack, Flutter, automation, and applied AI/data work | Can reviewers find the right evidence for their goal? |
+| Documentation Hub | Architecture, case study, roadmap, quality, and review docs | Is the portfolio easy to evaluate beyond the README? |
+| Repository Health | Markdown linting, link/image checks, widget guards, and documentation requirements | Can the profile stay stable after future edits? |
+| Portfolio Metadata | Repository descriptions, topics, homepage links, and resume alignment | Does GitHub search/card context match the portfolio story? |
 
 ## Technology Profile
 
 | Category | Value |
 | --- | --- |
-| Primary stack | Project-specific |
-| Repository type | Public portfolio |
-| GitHub topics | github-profile, portfolio, profile-readme |
+| Primary stack | Markdown documentation, GitHub Actions, Python validation, SVG assets |
+| Repository type | Public GitHub profile and portfolio hub |
+| GitHub topics | github-profile, portfolio, profile-readme, documentation, full-stack, flutter |
 
 ## Data / State Flow
 
 ```mermaid
 sequenceDiagram
-    participant U as User
-    participant I as Interface
-    participant L as Logic
-    participant D as Data/Device Layer
-    U->>I: Start main workflow
-    I->>L: Send validated intent
-    L->>D: Read/write required state
-    D-->>L: Return result
-    L-->>I: Prepare display/output
-    I-->>U: Show final state
+    participant R as Reviewer
+    participant RM as README
+    participant D as Docs
+    participant P as Project Repos
+    participant CI as Repository Health
+    R->>RM: Scan positioning and featured work
+    RM->>P: Follow project links for deeper review
+    RM->>D: Open architecture, roadmap, and quality docs
+    CI-->>RM: Keep profile links, assets, and standards valid
+    CI-->>D: Keep documentation structure review-ready
 ```
 
 ## Extension Points

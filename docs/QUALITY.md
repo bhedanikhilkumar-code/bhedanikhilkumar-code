@@ -17,8 +17,8 @@ This document defines what makes the repository strong, review-ready, and portfo
 
 | Area | Value |
 | --- | --- |
-| Detected stack | Project-specific |
-| Primary language | Project-specific |
+| Detected stack | Markdown, GitHub Actions, Python validation, SVG assets |
+| Primary language | Markdown documentation with Python-based repository health checks |
 | Topics | github-profile, profile-readme, developer-portfolio, portfolio, documentation, full-stack, flutter |
 
 ## Recommended Checks
@@ -41,6 +41,7 @@ The local script `scripts/validate_repository_health.py` and GitHub Actions work
 - `.gitignore` coverage for local caches, environment files, and editor noise.
 - `.gitattributes` and `.editorconfig` line-ending policy for LF-normalized files.
 - Stable Markdown links and SVG assets.
+- No unresolved placeholder text in public Markdown docs.
 - No flaky third-party README/widget image sources.
 
 ## Metadata Standard
