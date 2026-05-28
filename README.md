@@ -35,28 +35,46 @@
 
 ## Professional Snapshot
 
-I am **Nikhil Bheda**, a Computer Engineering student focused on building practical software products that look polished, solve real workflow problems, and are easy for other developers or recruiters to review.
+I am **Nikhil Bheda**, a Computer Engineering student and product-minded developer from Rajkot, Gujarat. I build full-stack dashboards, Flutter utilities, automation tools, and portfolio-grade repositories that are easy for recruiters, mentors, and developers to evaluate.
 
-| Area | Focus |
+| Signal | Details |
 | --- | --- |
-| **Target roles** | Full-stack developer, Flutter developer, junior software engineer, product-focused engineering intern |
-| **Core strengths** | Workflow platforms, dashboard UX, Flutter utilities, automation tools, documentation-first repositories |
-| **Main stack** | React, TypeScript, JavaScript, Node.js, Express, FastAPI, Python, Flutter, Dart, PostgreSQL, MySQL, Prisma, Firebase |
+| **Role direction** | Full-stack developer, Flutter developer, junior software engineer, product-focused engineering intern |
+| **Strongest evidence** | Workflow apps with auth/admin flows, dashboards, API design, mobile UX, and documentation-first repositories |
+| **Core stack** | React, TypeScript, JavaScript, Node.js, Express, FastAPI, Python, Flutter, Dart, PostgreSQL, MySQL, Prisma, Firebase |
+| **Current focus** | Backend architecture, Flutter state management, testing habits, deployment workflows, and AI-assisted productivity |
 | **Location** | Rajkot, Gujarat, India |
-| **Availability** | Open to internships, collaborations, freelance-style product work, and serious learning opportunities |
+| **Availability** | Internships, collaborations, freelance-style product work, and serious learning opportunities |
+
+### 30-Second Profile Scan
+
+- **Best first impression:** Product-focused full-stack and Flutter work with polished documentation
+- **Most reviewable projects:** ExporTrack AI, Planora, Site Surveyor Compass, and AutoPortfolio Builder
+- **What I optimize for:** Clear workflows, clean UI hierarchy, practical architecture, and README-first presentation
+- **Collaboration fit:** Internships, product prototypes, dashboard apps, Flutter utilities, and automation-heavy tools
 
 ## What I Build
 
-I like building software that has a clear purpose beyond the demo screen: dashboards that support decisions, mobile apps that help users finish tasks, and automation tools that reduce repetitive work.
+I like building software that has a clear purpose beyond the demo screen: dashboards that support decisions, mobile apps that help users finish tasks, and automation tools that reduce repetitive work. My goal is to make each project understandable, runnable, and useful enough for a real review conversation.
 
 - **Full-stack workflow platforms** with authentication, admin flows, dashboards, REST APIs, structured data, and review-friendly documentation
 - **Flutter mobile apps** with clean UI, local storage, offline-first thinking, and productivity-oriented experiences
 - **Automation and developer tools** that generate assets, improve project presentation, or make repetitive tasks faster
+- **Applied AI/data projects** that turn domain problems into measurable predictions, dashboards, and decision-support flows
 - **Portfolio-grade repositories** with setup instructions, architecture notes, roadmaps, quality checks, and clear product positioning
 
 <p align="center">
   <img src="assets/portfolio-map.svg" alt="Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools" />
 </p>
+
+## Portfolio Proof Points
+
+| Review angle | Evidence in this profile |
+| --- | --- |
+| **Product thinking** | Projects are framed around workflows, users, dashboards, and task completion rather than only tech demos |
+| **Engineering maturity** | Featured repos show API design, authentication, scheduling logic, local setup docs, and quality checklists |
+| **Mobile capability** | Flutter projects focus on usable interfaces, local storage, state management, and offline-oriented experiences |
+| **Communication** | Documentation hub, case studies, review guides, roadmaps, and project summaries make the work easier to evaluate |
 
 ## Featured Portfolio Work
 
@@ -80,10 +98,10 @@ I like building software that has a clear purpose beyond the demo screen: dashbo
 
 | Project | Product value | Engineering signal |
 | --- | --- | --- |
-| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics platform for shipment visibility, document verification, and operations dashboards | React, TypeScript, Node.js, Express, MySQL, workflow modeling, dashboard UX |
-| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin system with recurrence, ICS import/export, authentication, and event workflows | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design |
-| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurements, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows |
-| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that converts GitHub/LinkedIn inputs into portfolio-ready content and exports | FastAPI, Python, JavaScript, auth/admin tooling, content automation |
+| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics platform for shipment visibility, document verification, and operations dashboards | React, TypeScript, Node.js, Express, MySQL, workflow modeling, dashboard UX, role-based flows |
+| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin system with recurrence, ICS import/export, authentication, and event workflows | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design, data modeling |
+| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurements, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows, field-first design |
+| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that converts GitHub/LinkedIn inputs into portfolio-ready content and exports | FastAPI, Python, JavaScript, auth/admin tooling, content automation, recruiter-facing output |
 
 ## Best Review Path
 
@@ -132,19 +150,19 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## Project Index
 
-- **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic SVG developer avatars through API, CLI, and web UI
-- **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, cloud sync, passcode, and biometric unlock
-- **[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations
-- **[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and export flows
-- **[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app built with Flutter and Dart
-- **[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — Flutter story/emoji creation experience with playful mobile UI direction
-- **[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI
+| Category | Projects |
+| --- | --- |
+| **Developer tools & automation** | **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic SVG avatars through API, CLI, and web UI<br/>**[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and exports<br/>**[GitHub Contribution Poster Maker](https://github.com/bhedanikhilkumar-code/github-contribution-poster-maker)** — contribution-style poster generator with custom patterns and export flows<br/>**[CommitPilot](https://github.com/bhedanikhilkumar-code/CommitPilot)** — Python CLI for planning goals, tracking progress, and building consistent commit habits |
+| **Flutter / mobile apps** | **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, cloud sync, passcode, and biometric unlock<br/>**[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** — GPS/measurement field utility with offline-oriented mobile workflows<br/>**[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app with Panchang, festival, Choghadiya, and Hindi-first UX<br/>**[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — playful Flutter story/emoji creation experience with mobile UI direction |
+| **Full-stack productivity systems** | **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** — scheduling/admin platform with recurrence, ICS flows, auth, APIs, and data modeling<br/>**[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations<br/>**[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI |
+| **Applied AI / data systems** | **[AI Manufacturing Intelligence](https://github.com/bhedanikhilkumar-code/ai-manufacturing-intelligence)** — batch-level optimization for energy consumption and carbon reduction<br/>**[Noninvasive Disease Risk Predictor](https://github.com/bhedanikhilkumar-code/noninvasive-disease-risk-predictor)** — final-year health-risk prediction system with risk scores, insights, and analytics dashboard |
 
 ## Quality Signals
 
 - Repository health workflow validates required profile, documentation, and collaboration files
-- Featured repositories are positioned with product purpose, stack, and engineering signal
-- Documentation hub keeps architecture, roadmap, quality standards, and review checklists visible
+- Featured repositories are positioned with product purpose, stack, review angle, and engineering signal
+- Documentation hub keeps architecture, case study, roadmap, quality standards, and review checklists visible
+- Project index groups work by reviewer intent: full-stack, Flutter/mobile, automation, and applied AI/data systems
 - Public repository descriptions and topics are aligned for GitHub cards and search
 - Profile is structured for both fast recruiter scanning and deeper developer review
 
