@@ -5,7 +5,7 @@ Use this checklist before sharing the repository with recruiters, reviewers, col
 ## First Impression
 
 - [ ] Repository description and topics are accurate.
-- [ ] README title, badges, and overview are polished.
+- [ ] README title, status links, and overview are polished.
 - [ ] The project value is understandable in the first 30 seconds.
 - [ ] Screenshots, demo GIFs, or placeholders are present where useful.
 

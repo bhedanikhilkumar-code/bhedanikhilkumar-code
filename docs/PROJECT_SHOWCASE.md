@@ -78,4 +78,4 @@ flowchart LR
 2. Add demo videos for ExporTrack AI, Planora, and Site Surveyor Compass.
 3. Add architecture diagrams to the most important full-stack repositories.
 4. Keep live deployment links healthy and documented.
-5. Add tests/CI badges where projects already include test commands.
+5. Add tests/CI status indicators where projects already include test commands.

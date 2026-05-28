@@ -48,6 +48,6 @@ To make the portfolio even stronger over time:
 - Add screenshots or GIFs to each major repository README.
 - Add short demo videos for the top 3 projects.
 - Keep live demo links healthy where deployments exist.
-- Add test commands and CI badges to more project READMEs.
+- Add test commands and CI status links to more project READMEs.
 - Add architecture diagrams to the most important repositories.
 - Keep repository descriptions and topics aligned with the actual product value.

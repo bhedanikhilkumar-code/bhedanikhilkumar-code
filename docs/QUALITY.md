@@ -44,7 +44,7 @@ Public portfolio repositories should have:
 - A concise description that explains product value, not just technology.
 - Topics covering framework, language, product category, and recruiter/search keywords.
 - A homepage URL when a working demo exists.
-- README badges and links that match the actual project state.
+- README status links and stack indicators that match the actual project state.
 - Consistent naming and spelling across GitHub metadata, README, and resume.
 - Inclusion in the project showcase catalog when the repository is part of the portfolio story.
 

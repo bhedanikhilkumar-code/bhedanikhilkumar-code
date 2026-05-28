@@ -136,7 +136,7 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## GitHub Activity
 
-> Stable GitHub-native activity links without generated animation dependencies or third-party activity widgets.
+> Stable GitHub-native activity links focused on profile, repositories, documentation, and repository health.
 
 | Activity view | Where to review |
 | --- | --- |
@@ -177,7 +177,7 @@ flowchart LR
 **Repository polish checklist used across the portfolio:**
 
 - Clear one-line value proposition
-- Professional badges and stack indicators
+- Clear stack indicators and status links
 - Architecture or workflow diagram
 - Feature/capability table
 - Local setup commands

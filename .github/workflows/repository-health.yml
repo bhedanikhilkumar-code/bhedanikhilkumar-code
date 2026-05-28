@@ -22,6 +22,7 @@ jobs:
       - name: Validate professional repository files
         run: |
           python - <<'PY'
+          import re
           from pathlib import Path
 
           required_files = [
@@ -68,6 +69,53 @@ jobs:
               for name in failed:
                   print(f"- {name}")
               raise SystemExit(1)
+
+          markdown_files = (
+              list(Path(".").glob("*.md"))
+              + list(Path("docs").glob("*.md"))
+              + list(Path(".github").glob("*.md"))
+          )
+          link_pattern = re.compile(r"!?\[[^\]]*\]\(([^)]+)\)")
+          missing_links = []
+          missing_images = []
+          relative_images = []
+          for file in markdown_files:
+              text = file.read_text(encoding="utf-8", errors="ignore")
+              for match in link_pattern.finditer(text):
+                  href = match.group(1).strip()
+                  if not href or href.startswith(("#", "http://", "https://", "mailto:")):
+                      continue
+                  target = href.split("#", 1)[0]
+                  if not target:
+                      continue
+                  target_path = file.parent / target
+                  is_image = match.group(0).startswith("!")
+                  if is_image:
+                      relative_images.append(target_path)
+                  if not target_path.exists():
+                      item = f"{file} -> {href}"
+                      if is_image:
+                          missing_images.append(item)
+                      else:
+                          missing_links.append(item)
+
+          if missing_links or missing_images:
+              if missing_links:
+                  print("Missing relative Markdown links:")
+                  for item in missing_links:
+                      print(f"- {item}")
+              if missing_images:
+                  print("Missing relative Markdown images:")
+                  for item in missing_images:
+                      print(f"- {item}")
+              raise SystemExit(1)
+
+          for image in sorted(set(relative_images)):
+              if image.suffix.lower() == ".svg":
+                  svg = image.read_text(encoding="utf-8", errors="ignore")
+                  if "<svg" not in svg or "</svg>" not in svg:
+                      print(f"Invalid SVG asset: {image}")
+                      raise SystemExit(1)
 
           suspicious_names = {".env", ".env.local", ".env.production", "id_rsa", "id_ed25519"}
           suspicious = [str(path) for path in Path(".").rglob("*") if path.is_file() and path.name in suspicious_names]
