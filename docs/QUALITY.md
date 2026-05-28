@@ -36,6 +36,8 @@ The GitHub Actions workflow `.github/workflows/repository-health.yml` checks tha
 - Contribution, security, support, and conduct files.
 - Issue and pull request templates.
 - Clear repository ownership.
+- Stable Markdown links and SVG assets.
+- No flaky third-party README/widget image sources.
 
 ## Metadata Standard
 
@@ -45,6 +47,7 @@ Public portfolio repositories should have:
 - Topics covering framework, language, product category, and recruiter/search keywords.
 - A homepage URL when a working demo exists.
 - README status links and stack indicators that match the actual project state.
+- Avoid third-party generated README widgets when stable GitHub-native links are enough.
 - Consistent naming and spelling across GitHub metadata, README, and resume.
 - Inclusion in the project showcase catalog when the repository is part of the portfolio story.
 

@@ -24,6 +24,7 @@ Use this checklist before sharing the repository with recruiters, reviewers, col
 - [ ] Known limitations are documented honestly.
 - [ ] No secrets, private keys, or real credentials are committed.
 - [ ] Generated/binary files are intentional and documented.
+- [ ] README avoids flaky third-party generated widgets.
 
 ## GitHub Professionalism
 

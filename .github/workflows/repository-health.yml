@@ -117,6 +117,29 @@ jobs:
                       print(f"Invalid SVG asset: {image}")
                       raise SystemExit(1)
 
+          forbidden_widget_sources = [
+              "github-readme-stats.vercel.app",
+              "streak-stats.demolab.com",
+              "github-readme-activity-graph.vercel.app",
+              "readme-typing-svg.herokuapp.com",
+              "skillicons.dev",
+              "komarev.com",
+              "img.shields.io",
+              "raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/",
+          ]
+          forbidden_hits = []
+          for file in markdown_files:
+              text = file.read_text(encoding="utf-8", errors="ignore")
+              for source in forbidden_widget_sources:
+                  if source in text:
+                      forbidden_hits.append(f"{file} -> {source}")
+
+          if forbidden_hits:
+              print("Forbidden flaky README/widget sources found:")
+              for item in forbidden_hits:
+                  print(f"- {item}")
+              raise SystemExit(1)
+
           suspicious_names = {".env", ".env.local", ".env.production", "id_rsa", "id_ed25519"}
           suspicious = [str(path) for path in Path(".").rglob("*") if path.is_file() and path.name in suspicious_names]
           for path in suspicious:
