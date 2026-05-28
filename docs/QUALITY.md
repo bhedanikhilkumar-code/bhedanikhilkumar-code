@@ -25,17 +25,20 @@ This document defines what makes the repository strong, review-ready, and portfo
 
 | Check | Command / Location |
 | --- | --- |
-| Repository health | `GitHub Actions → Repository Health workflow` |
+| Markdown lint | `npx --yes markdownlint-cli2@0.22.1 "*.md" "docs/*.md" ".github/*.md"` |
+| Repository health | `python scripts/validate_repository_health.py` |
+| CI verification | `GitHub Actions → Repository Health workflow` |
 
 ## Repository Health Gate
 
-The GitHub Actions workflow `.github/workflows/repository-health.yml` checks that the project has:
+The local script `scripts/validate_repository_health.py` and GitHub Actions workflow `.github/workflows/repository-health.yml` check that the project has:
 
 - README with a documentation hub.
 - Architecture, case study, roadmap, quality, and review docs.
 - Contribution, security, support, and conduct files.
 - Issue and pull request templates.
 - Clear repository ownership.
+- `.gitignore` coverage for local caches, environment files, and editor noise.
 - Stable Markdown links and SVG assets.
 - No flaky third-party README/widget image sources.
 
