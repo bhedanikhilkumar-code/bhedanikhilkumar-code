@@ -2,21 +2,13 @@
 [![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml)
 <!-- REPO_HEALTH_BADGE_END -->
 
-<p align="center">
-  <img src="assets/profile-header.svg" alt="Nikhil Bheda - Full-Stack Developer and Flutter Builder" />
-</p>
+![Nikhil Bheda - Full-Stack Developer and Flutter Builder](assets/profile-header.svg)
 
-<p align="center">
-  <strong>Full-stack developer • Flutter builder • automation-minded engineer</strong><br/>
-  I build workflow-first apps with clean UX, maintainable architecture, and review-friendly documentation.
-</p>
+> Full-stack developer • Flutter builder • automation-minded engineer
+>
+> I build workflow-first apps with clean UX, maintainable architecture, and review-friendly documentation.
 
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code">GitHub</a> •
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">LinkedIn</a> •
-  <a href="mailto:bhedanikhilkumar@gmail.com">Email</a> •
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">Portfolio</a>
-</p>
+[GitHub](https://github.com/bhedanikhilkumar-code) • [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) • [Email](mailto:bhedanikhilkumar@gmail.com) • [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 
 ---
 
@@ -50,9 +42,7 @@ I like building software that has a clear purpose beyond the demo screen: dashbo
 - **Applied AI/data projects** that turn domain problems into measurable predictions, dashboards, and decision-support flows
 - **Portfolio-grade repositories** with setup instructions, architecture notes, roadmaps, quality checks, and clear product positioning
 
-<p align="center">
-  <img src="assets/portfolio-map.svg" alt="Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools" />
-</p>
+![Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools](assets/portfolio-map.svg)
 
 ## Portfolio Proof Points
 
