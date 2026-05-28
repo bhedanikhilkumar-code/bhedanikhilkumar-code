@@ -87,24 +87,12 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## Engineering Style
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Product-first thinking</strong><br/>
-      I start from the workflow: who uses it, what they need to finish, and where software can remove friction.
-      <br/><br/>
-      <strong>Readable architecture</strong><br/>
-      I prefer practical naming, clear modules, setup docs, and repository structure that another developer can follow.
-    </td>
-    <td width="50%" valign="top">
-      <strong>Polished UI direction</strong><br/>
-      I care about spacing, hierarchy, dark professional aesthetics, and interfaces that feel intentional.
-      <br/><br/>
-      <strong>Automation mindset</strong><br/>
-      If a task is repetitive, I look for a script, template, workflow, or tool that makes it faster and more reliable.
-    </td>
-  </tr>
-</table>
+| Principle | How I apply it |
+| --- | --- |
+| **Product-first thinking** | I start from the workflow: who uses it, what they need to finish, and where software can remove friction. |
+| **Readable architecture** | I prefer practical naming, clear modules, setup docs, and repository structure that another developer can follow. |
+| **Polished UI direction** | I care about spacing, hierarchy, dark professional aesthetics, and interfaces that feel intentional. |
+| **Automation mindset** | If a task is repetitive, I look for a script, template, workflow, or tool that makes it faster and more reliable. |
 
 ## Toolbox
 
@@ -120,12 +108,30 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## Project Index
 
-| Category | Projects |
-| --- | --- |
-| **Developer tools & automation** | **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic SVG avatars through API, CLI, and web UI<br/>**[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and exports<br/>**[GitHub Contribution Poster Maker](https://github.com/bhedanikhilkumar-code/github-contribution-poster-maker)** — contribution-style poster generator with custom patterns and export flows<br/>**[CommitPilot](https://github.com/bhedanikhilkumar-code/CommitPilot)** — Python CLI for planning goals, tracking progress, and building consistent commit habits |
-| **Flutter / mobile apps** | **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, cloud sync, passcode, and biometric unlock<br/>**[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** — GPS/measurement field utility with offline-oriented mobile workflows<br/>**[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app with Panchang, festival, Choghadiya, and Hindi-first UX<br/>**[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — playful Flutter story/emoji creation experience with mobile UI direction |
-| **Full-stack productivity systems** | **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** — scheduling/admin platform with recurrence, ICS flows, auth, APIs, and data modeling<br/>**[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations<br/>**[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI |
-| **Applied AI / data systems** | **[AI Manufacturing Intelligence](https://github.com/bhedanikhilkumar-code/ai-manufacturing-intelligence)** — batch-level optimization for energy consumption and carbon reduction<br/>**[Noninvasive Disease Risk Predictor](https://github.com/bhedanikhilkumar-code/noninvasive-disease-risk-predictor)** — final-year health-risk prediction system with risk scores, insights, and analytics dashboard |
+### Developer Tools & Automation
+
+- **[Developer Avatar Generator](https://github.com/bhedanikhilkumar-code/Developer-Avatar-Generator)** — deterministic SVG avatars through API, CLI, and web UI
+- **[DevBadge Generator](https://github.com/bhedanikhilkumar-code/devbadge-generator)** — animated badges, stack previews, presets, Markdown copy, and exports
+- **[GitHub Contribution Poster Maker](https://github.com/bhedanikhilkumar-code/github-contribution-poster-maker)** — contribution-style poster generator with custom patterns and export flows
+- **[CommitPilot](https://github.com/bhedanikhilkumar-code/CommitPilot)** — Python CLI for planning goals, tracking progress, and building consistent commit habits
+
+### Flutter / Mobile Apps
+
+- **[Money King](https://github.com/bhedanikhilkumar-code/money-king)** — Flutter expense tracker with budgets, cloud sync, passcode, and biometric unlock
+- **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** — GPS/measurement field utility with offline-oriented mobile workflows
+- **[Sanskriti Panchang](https://github.com/bhedanikhilkumar-code/SanskritiPanchang)** — Hindu calendar app with Panchang, festival, Choghadiya, and Hindi-first UX
+- **[iOS Emoji Story Maker](https://github.com/bhedanikhilkumar-code/iOS-Emoji-Story-Maker)** — playful Flutter story/emoji creation experience with mobile UI direction
+
+### Full-Stack Productivity Systems
+
+- **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** — scheduling/admin platform with recurrence, ICS flows, auth, APIs, and data modeling
+- **[Smart Study Planner](https://github.com/bhedanikhilkumar-code/Smart-Study-Planner)** — study planning system with scheduling, backlog tracking, analytics, and revision recommendations
+- **[RepoNova100](https://github.com/bhedanikhilkumar-code/RepoNova100)** — AI-assisted project idea planner with FastAPI backend, tests, and CI
+
+### Applied AI / Data Systems
+
+- **[AI Manufacturing Intelligence](https://github.com/bhedanikhilkumar-code/ai-manufacturing-intelligence)** — batch-level optimization for energy consumption and carbon reduction
+- **[Noninvasive Disease Risk Predictor](https://github.com/bhedanikhilkumar-code/noninvasive-disease-risk-predictor)** — final-year health-risk prediction system with risk scores, insights, and analytics dashboard
 
 ## Quality Signals
 
