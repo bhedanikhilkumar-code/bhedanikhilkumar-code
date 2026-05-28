@@ -144,7 +144,7 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## GitHub Activity
 
-> Stable GitHub-native activity links, with the contribution snake generated from this repository's own workflow output.
+> Stable GitHub-native activity links without generated animation dependencies or third-party activity widgets.
 
 | Activity view | Where to review |
 | --- | --- |
@@ -152,10 +152,6 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 | **Recently updated repositories** | [Repositories sorted by latest activity](https://github.com/bhedanikhilkumar-code?tab=repositories&sort=updated) |
 | **Portfolio project catalog** | [Project Showcase Catalog](docs/PROJECT_SHOWCASE.md) |
 | **Repository health** | [Repository Health workflow](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml) |
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub contribution snake animation" />
-</p>
 
 ## Education & Direction
 
