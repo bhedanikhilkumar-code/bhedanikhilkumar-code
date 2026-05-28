@@ -78,30 +78,14 @@ I like building software that has a clear purpose beyond the demo screen: dashbo
 
 ## Featured Portfolio Work
 
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code/ExporTrack-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=ExporTrack-AI&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="ExporTrack AI pinned repository" />
-  </a>
-  <a href="https://github.com/bhedanikhilkumar-code/Planora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=Planora&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Planora pinned repository" />
-  </a>
-</p>
+> Stable review links for the projects that best show product thinking, implementation depth, and portfolio readiness.
 
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code/site-surveyor-compass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=site-surveyor-compass&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="Site Surveyor Compass pinned repository" />
-  </a>
-  <a href="https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhedanikhilkumar-code&repo=AutoPortfolio-Builder&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=DBEAFE&icon_color=38BDF8" alt="AutoPortfolio Builder pinned repository" />
-  </a>
-</p>
-
-| Project | Product value | Engineering signal |
+| Project | Best review angle | Engineering signal |
 | --- | --- | --- |
-| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics platform for shipment visibility, document verification, and operations dashboards | React, TypeScript, Node.js, Express, MySQL, workflow modeling, dashboard UX, role-based flows |
-| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin system with recurrence, ICS import/export, authentication, and event workflows | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design, data modeling |
-| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility app for GPS workflows, measurements, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows, field-first design |
-| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio generator that converts GitHub/LinkedIn inputs into portfolio-ready content and exports | FastAPI, Python, JavaScript, auth/admin tooling, content automation, recruiter-facing output |
+| **[ExporTrack AI](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)** | Export logistics workflows, shipment visibility, document verification, and operations dashboards | React, TypeScript, Node.js, Express, MySQL, workflow modeling, dashboard UX, role-based flows |
+| **[Planora](https://github.com/bhedanikhilkumar-code/Planora)** | Calendar/admin workflows with recurrence, ICS import/export, authentication, and event management | React, TypeScript, Node.js, Prisma, PostgreSQL, scheduling logic, API design, data modeling |
+| **[Site Surveyor Compass](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)** | Field utility UX for GPS workflows, measurements, waypoint management, and site reporting | Flutter, Dart, Provider, Hive, Firebase, mobile UX, offline-oriented flows, field-first design |
+| **[AutoPortfolio Builder](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)** | Portfolio automation that turns GitHub/LinkedIn inputs into review-ready content and exports | FastAPI, Python, JavaScript, auth/admin tooling, content automation, recruiter-facing output |
 
 ## Best Review Path
 
