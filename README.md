@@ -7,28 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code">
-    <img src="https://img.shields.io/badge/GitHub-bhedanikhilkumar--code-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Bheda-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn profile" />
-  </a>
-  <a href="mailto:bhedanikhilkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0284C7" alt="Email contact" />
-  </a>
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-0F172A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Portfolio website" />
-  </a>
+  <strong>Full-stack developer • Flutter builder • automation-minded engineer</strong><br/>
+  I build workflow-first apps with clean UX, maintainable architecture, and review-friendly documentation.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhedanikhilkumar-code&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bhedanikhilkumar-code?style=for-the-badge&color=38BDF8&labelColor=020617" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/bhedanikhilkumar-code?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7DD3FC&labelColor=020617" alt="GitHub stars" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=18&pause=1100&color=38BDF8&center=true&vCenter=true&width=900&lines=Full-stack+developer+%E2%80%A2+Flutter+builder+%E2%80%A2+automation-minded+engineer;I+build+workflow-first+apps+with+clean+UX+and+maintainable+architecture;Open+to+internships%2C+collaborations%2C+and+real+product+work" alt="Profile typing animation" />
+  <a href="https://github.com/bhedanikhilkumar-code">GitHub</a> •
+  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">LinkedIn</a> •
+  <a href="mailto:bhedanikhilkumar@gmail.com">Email</a> •
+  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">Portfolio</a>
 </p>
 
 ---
@@ -172,20 +159,12 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## Connect
 
-<p align="center">
-  <a href="mailto:bhedanikhilkumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bhedanikhilkumar%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let%27s%20Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1D4ED8" alt="LinkedIn" />
-  </a>
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Website-020617?style=for-the-badge&logo=vercel&logoColor=white&labelColor=38BDF8" alt="Portfolio website" />
-  </a>
-  <a href="RESUME.md">
-    <img src="https://img.shields.io/badge/Resume-Read%20More-020617?style=for-the-badge&logo=readme&logoColor=white&labelColor=64748B" alt="Resume" />
-  </a>
-</p>
+| Channel | Link |
+| --- | --- |
+| **Email** | [bhedanikhilkumar@gmail.com](mailto:bhedanikhilkumar@gmail.com) |
+| **LinkedIn** | [Nikhil Bheda](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) |
+| **Portfolio** | [View portfolio website](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) |
+| **Resume** | [Read resume](RESUME.md) |
 
 <!-- PORTFOLIO_DOC_STANDARD_START -->
 
