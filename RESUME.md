@@ -1,8 +1,8 @@
 # Nikhil Bheda
 
-**Full-Stack Developer | Flutter Builder | Product-Focused Computer Engineering Student**
+## Full-Stack Developer | Flutter Builder | Product-Focused Computer Engineering Student
 
-- 📧 bhedanikhilkumar@gmail.com
+- 📧 [bhedanikhilkumar@gmail.com](mailto:bhedanikhilkumar@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
 - 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
@@ -34,6 +34,7 @@ Known for clean UI direction, documentation-first repositories, maintainable pro
 ## Featured Projects
 
 ### ExporTrack AI
+
 Full-stack export logistics workflow platform for shipment tracking, document verification, and operational dashboards.
 
 - **Stack:** React, TypeScript, Node.js, Express, MySQL
@@ -41,6 +42,7 @@ Full-stack export logistics workflow platform for shipment tracking, document ve
 - **Signal:** practical business workflow modeling with full-stack implementation
 
 ### Planora
+
 Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
 
 - **Stack:** React, TypeScript, Node.js, Prisma, PostgreSQL
@@ -48,6 +50,7 @@ Calendar and admin platform with recurrence, ICS import/export, authentication, 
 - **Signal:** scheduling/data-modeling project with production-style platform thinking
 
 ### Site Surveyor Compass
+
 Flutter field utility app for GPS workflows, measurement tools, waypoint management, and on-site reporting.
 
 - **Stack:** Flutter, Dart, Provider, Hive, Firebase
@@ -55,6 +58,7 @@ Flutter field utility app for GPS workflows, measurement tools, waypoint managem
 - **Signal:** practical mobile app with offline-oriented use cases
 
 ### AutoPortfolio Builder
+
 Portfolio generator that turns GitHub/LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
 
 - **Stack:** FastAPI, Python, JavaScript, HTML/CSS

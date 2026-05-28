@@ -16,12 +16,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Lint Markdown
+        run: npx --yes markdownlint-cli2 "*.md" "docs/*.md" ".github/*.md"
+
       - name: Validate professional repository files
         run: |
           python - <<'PY'
           from pathlib import Path
 
           required_files = [
+              ".markdownlint.json",
               "README.md",
               "CONTRIBUTING.md",
               "SECURITY.md",
