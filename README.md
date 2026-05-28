@@ -152,18 +152,14 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8&icon_color=38BDF8&ring_color=60A5FA" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=D6EAF8" alt="Top languages" />
-</p>
+> Stable GitHub-native activity links, with the contribution snake generated from this repository's own workflow output.
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=bhedanikhilkumar-code&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC&sideLabels=DBEAFE&dates=94A3B8&sideNums=DBEAFE&currStreakNum=DBEAFE" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhedanikhilkumar-code&bg_color=020617&color=7dd3fc&line=38bdf8&point=ffffff&area=true&area_color=38bdf8&hide_border=true" alt="GitHub activity graph" />
-</p>
+| Activity view | Where to review |
+| --- | --- |
+| **Contribution graph** | [GitHub profile overview](https://github.com/bhedanikhilkumar-code) |
+| **Recently updated repositories** | [Repositories sorted by latest activity](https://github.com/bhedanikhilkumar-code?tab=repositories&sort=updated) |
+| **Portfolio project catalog** | [Project Showcase Catalog](docs/PROJECT_SHOWCASE.md) |
+| **Repository health** | [Repository Health workflow](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml) |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhedanikhilkumar-code/bhedanikhilkumar-code/output/github-snake.svg" alt="GitHub contribution snake animation" />
