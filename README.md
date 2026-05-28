@@ -121,16 +121,15 @@ If you are reviewing my work quickly, this path gives the clearest signal:
 
 ## Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,fastapi,flutter,dart,postgres,mysql,prisma,firebase,docker,git,github,html,css&theme=dark" alt="Tech stack icons" />
-</p>
+> Stable text-first stack overview, so the section stays readable even when third-party icon services are slow or unavailable.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20TypeScript%20%7C%20JavaScript-020617?style=flat-square&labelColor=38BDF8&color=020617" alt="Frontend stack" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express%20%7C%20FastAPI-020617?style=flat-square&labelColor=2563EB&color=020617" alt="Backend stack" />
-  <img src="https://img.shields.io/badge/Mobile-Flutter%20%7C%20Dart-020617?style=flat-square&labelColor=0EA5E9&color=020617" alt="Mobile stack" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL%20%7C%20Prisma-020617?style=flat-square&labelColor=7DD3FC&color=020617" alt="Database stack" />
-</p>
+| Layer | Tools and strengths |
+| --- | --- |
+| **Frontend** | React, TypeScript, JavaScript, HTML, CSS, responsive UI, dashboard UX |
+| **Backend** | Node.js, Express, FastAPI, Python, REST APIs, authentication flows |
+| **Mobile** | Flutter, Dart, Provider, Hive, Firebase, offline-first mobile experiences |
+| **Database** | PostgreSQL, MySQL, Prisma, structured data modeling |
+| **Quality & tooling** | Git, GitHub, Docker, documentation, repository health checks, CI workflows |
 
 ## Project Index
 
