@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Lint Markdown
-        run: npx --yes markdownlint-cli2 "*.md" "docs/*.md" ".github/*.md"
+        run: npx --yes markdownlint-cli2@0.22.1 "*.md" "docs/*.md" ".github/*.md"
 
       - name: Validate professional repository files
         run: |
@@ -54,6 +54,7 @@ jobs:
           readme = Path("README.md").read_text(encoding="utf-8", errors="ignore")
           readme_checks = {
               "README has enough detail": len(readme) >= 1500,
+              "README has H1": readme.startswith("# Nikhil Bheda"),
               "README has documentation hub": "Documentation Hub" in readme,
               "README links architecture": "docs/ARCHITECTURE.md" in readme,
               "README links roadmap": "docs/ROADMAP.md" in readme,
