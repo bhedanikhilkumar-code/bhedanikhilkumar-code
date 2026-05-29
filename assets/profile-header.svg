@@ -2,6 +2,34 @@
   <title id="title">Nikhil Bheda GitHub Profile Header</title>
   <desc id="desc">Dark professional banner for Nikhil Bheda, full-stack developer and Flutter builder.</desc>
   <defs>
+    <style>
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      @keyframes floatCard {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-8px); }
+      }
+      @keyframes driftWave {
+        0% { transform: translateX(-18px); opacity: 0.12; }
+        100% { transform: translateX(18px); opacity: 0.22; }
+      }
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.35; transform: scale(0.9); }
+        50% { opacity: 1; transform: scale(1.25); }
+      }
+      .glow-blue, .glow-violet { animation: pulseGlow 5.5s ease-in-out infinite; }
+      .glow-violet { animation-delay: 1.2s; }
+      .hero-card, .code-card { animation: floatCard 7s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .code-card { animation-delay: 1.4s; }
+      .wave-one, .wave-two { animation: driftWave 8s ease-in-out infinite alternate; transform-box: fill-box; }
+      .wave-two { animation-delay: 1.6s; }
+      .spark { animation: twinkle 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .spark:nth-child(2) { animation-delay: 0.6s; }
+      .spark:nth-child(3) { animation-delay: 1.2s; }
+      .spark:nth-child(4) { animation-delay: 1.8s; }
+    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#020617"/>
       <stop offset="0.45" stop-color="#0F172A"/>
@@ -34,13 +62,13 @@
 
   <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
   <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glowBlue)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#glowViolet)"/>
+  <rect class="glow-blue" width="1200" height="360" rx="28" fill="url(#glowBlue)"/>
+  <rect class="glow-violet" width="1200" height="360" rx="28" fill="url(#glowViolet)"/>
 
-  <path d="M0 280C145 235 260 336 410 290C560 244 650 190 805 228C960 266 1030 331 1200 250V360H0V280Z" fill="#0284C7" opacity="0.18"/>
-  <path d="M0 306C150 255 285 330 430 309C600 284 700 226 860 260C1012 292 1088 330 1200 292V360H0V306Z" fill="#38BDF8" opacity="0.12"/>
+  <path class="wave-one" d="M0 280C145 235 260 336 410 290C560 244 650 190 805 228C960 266 1030 331 1200 250V360H0V280Z" fill="#0284C7" opacity="0.18"/>
+  <path class="wave-two" d="M0 306C150 255 285 330 430 309C600 284 700 226 860 260C1012 292 1088 330 1200 292V360H0V306Z" fill="#38BDF8" opacity="0.12"/>
 
-  <g filter="url(#shadow)">
+  <g class="hero-card" filter="url(#shadow)">
     <rect x="64" y="66" width="640" height="228" rx="24" fill="url(#card)" stroke="#38BDF8" stroke-opacity="0.2"/>
     <rect x="88" y="90" width="154" height="32" rx="16" fill="#0EA5E9" fill-opacity="0.14" stroke="#38BDF8" stroke-opacity="0.35"/>
     <text x="107" y="111" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.8">OPEN TO WORK</text>
@@ -53,7 +81,7 @@
     <text x="88" y="287" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">and developer products with clean UX and strong documentation.</text>
   </g>
 
-  <g filter="url(#shadow)">
+  <g class="code-card" filter="url(#shadow)">
     <rect x="752" y="66" width="384" height="228" rx="24" fill="#020617" fill-opacity="0.58" stroke="#7DD3FC" stroke-opacity="0.18"/>
     <circle cx="785" cy="98" r="6" fill="#EF4444"/>
     <circle cx="807" cy="98" r="6" fill="#F59E0B"/>
@@ -66,9 +94,9 @@
   </g>
 
   <g opacity="0.8">
-    <circle cx="1120" cy="42" r="3" fill="#7DD3FC"/>
-    <circle cx="1086" cy="318" r="3" fill="#38BDF8"/>
-    <circle cx="730" cy="322" r="2" fill="#BAE6FD"/>
-    <circle cx="48" cy="44" r="2" fill="#38BDF8"/>
+    <circle class="spark" cx="1120" cy="42" r="3" fill="#7DD3FC"/>
+    <circle class="spark" cx="1086" cy="318" r="3" fill="#38BDF8"/>
+    <circle class="spark" cx="730" cy="322" r="2" fill="#BAE6FD"/>
+    <circle class="spark" cx="48" cy="44" r="2" fill="#38BDF8"/>
   </g>
 </svg>

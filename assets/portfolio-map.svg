@@ -2,6 +2,26 @@
   <title id="title">Portfolio Focus Map</title>
   <desc id="desc">A dark portfolio map showing Nikhil Bheda's four focus areas: workflow platforms, Flutter apps, automation systems, and developer tools.</desc>
   <defs>
+    <style>
+      @keyframes mapPulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+      @keyframes cardLift {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-7px); }
+      }
+      @keyframes centerBeat {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.04); }
+      }
+      .connector { animation: mapPulse 4.8s ease-in-out infinite; }
+      .focus-card { animation: cardLift 7s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .focus-card:nth-of-type(2) { animation-delay: 0.8s; }
+      .focus-card:nth-of-type(3) { animation-delay: 1.6s; }
+      .focus-card:nth-of-type(4) { animation-delay: 2.4s; }
+      .center-node { animation: centerBeat 5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    </style>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="500" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
       <stop offset="0.55" stop-color="#0F172A"/>
@@ -31,34 +51,36 @@
   <text x="600" y="66" text-anchor="middle" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="800">Portfolio Focus Map</text>
   <text x="600" y="98" text-anchor="middle" fill="#BAE6FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="500">Practical software, clean presentation, and recruiter-friendly engineering signals</text>
 
-  <path d="M230 250H970" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
-  <path d="M600 175V325" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
-  <circle cx="600" cy="250" r="58" fill="#020617" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)"/>
-  <text x="600" y="242" text-anchor="middle" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">PRODUCT</text>
-  <text x="600" y="265" text-anchor="middle" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">ENGINEERING</text>
+  <path class="connector" d="M230 250H970" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+  <path class="connector" d="M600 175V325" stroke="url(#line)" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+  <g class="center-node">
+    <circle cx="600" cy="250" r="58" fill="#020617" stroke="#38BDF8" stroke-width="2" filter="url(#shadow)"/>
+    <text x="600" y="242" text-anchor="middle" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">PRODUCT</text>
+    <text x="600" y="265" text-anchor="middle" fill="#E0F2FE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">ENGINEERING</text>
+  </g>
 
-  <g filter="url(#shadow)">
+  <g class="focus-card" filter="url(#shadow)">
     <rect x="70" y="145" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#2563EB" stroke-opacity="0.45"/>
     <text x="102" y="188" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Workflow Platforms</text>
     <text x="102" y="222" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Dashboards • APIs • Admin flows • Data models</text>
     <text x="102" y="252" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">ExporTrack AI • Planora</text>
   </g>
 
-  <g filter="url(#shadow)">
+  <g class="focus-card" filter="url(#shadow)">
     <rect x="770" y="145" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#38BDF8" stroke-opacity="0.45"/>
     <text x="802" y="188" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Flutter Apps</text>
     <text x="802" y="222" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Offline-first UX • Local storage • Mobile polish</text>
     <text x="802" y="252" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">Site Surveyor • Money King • Sanskriti</text>
   </g>
 
-  <g filter="url(#shadow)">
+  <g class="focus-card" filter="url(#shadow)">
     <rect x="70" y="315" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#0EA5E9" stroke-opacity="0.45"/>
     <text x="102" y="358" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Automation Systems</text>
     <text x="102" y="392" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Generators • Planning tools • Reusable workflows</text>
     <text x="102" y="422" fill="#93C5FD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">AutoPortfolio • Smart Study Planner</text>
   </g>
 
-  <g filter="url(#shadow)">
+  <g class="focus-card" filter="url(#shadow)">
     <rect x="770" y="315" width="360" height="130" rx="22" fill="#0F172A" fill-opacity="0.88" stroke="#7DD3FC" stroke-opacity="0.45"/>
     <text x="802" y="358" fill="#7DD3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Developer Tools</text>
     <text x="802" y="392" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">CLI/API ideas • Badges • SVG assets • Docs</text>
