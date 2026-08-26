@@ -153,4 +153,4 @@ This GitHub profile is a record of that journey — **from learning concepts to 
 - 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 
-**Keep learning. Keep building. Keep improving. 🚀**
+## Keep Learning, Keep Building, Keep Improving 🚀
