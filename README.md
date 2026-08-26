@@ -6,17 +6,10 @@
 
 ![Nikhil Bheda - Full-Stack Developer and Flutter Builder](assets/profile-header.svg)
 
-<p align="center">
-  <strong>Full-Stack Developer • Flutter Builder • Automation-Minded Engineer</strong><br>
-  Building practical products with clean UX, maintainable architecture, and a security-aware mindset.
-</p>
+**Full-Stack Developer • Flutter Builder • Automation-Minded Engineer**  
+Building practical products with clean UX, maintainable architecture, and a security-aware mindset.
 
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code">GitHub</a> •
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">LinkedIn</a> •
-  <a href="mailto:bhedanikhilkumar@gmail.com">Email</a> •
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">Portfolio</a>
-</p>
+[GitHub](https://github.com/bhedanikhilkumar-code) • [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) • [Email](mailto:bhedanikhilkumar@gmail.com) • [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 
 ---
 
@@ -77,24 +70,28 @@ I use GitHub as a practical learning and building space: **learn by doing, docum
 ## 🚀 Featured Projects
 
 ### 1. ExporTrack AI
+
 **Export logistics workflow platform** with shipment visibility, document verification, and operations dashboards.
 
 **Stack:** React · TypeScript · Node.js · Express · MySQL  
 🔗 [View Project](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
 
 ### 2. Planora
+
 **Calendar and administration platform** with recurrence, ICS import/export, authentication, and event management.
 
 **Stack:** React · TypeScript · Node.js · Prisma · PostgreSQL  
 🔗 [View Project](https://github.com/bhedanikhilkumar-code/Planora)
 
 ### 3. Site Surveyor Compass
+
 **Flutter field utility** for GPS workflows, measurements, waypoint management, and site reporting.
 
 **Stack:** Flutter · Dart · Provider · Hive · Firebase  
 🔗 [View Project](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
 
 ### 4. AutoPortfolio Builder
+
 **Portfolio automation tool** that turns GitHub and LinkedIn inputs into review-ready content.
 
 **Stack:** FastAPI · Python · JavaScript · Authentication · Admin tooling  
@@ -151,13 +148,9 @@ This GitHub profile is a record of that journey — **from learning concepts to 
 
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="mailto:bhedanikhilkumar@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/">💼 LinkedIn</a> •
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/">🌐 Portfolio</a> •
-  <a href="https://github.com/bhedanikhilkumar-code">🐙 GitHub</a>
-</p>
+- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
+- 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
+- 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 
-<p align="center">
-  <strong>Keep learning. Keep building. Keep improving. 🚀</strong>
-</p>
+**Keep learning. Keep building. Keep improving. 🚀**
