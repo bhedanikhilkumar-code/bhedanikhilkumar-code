@@ -48,14 +48,6 @@ I use GitHub as a practical learning and building space: **learn by doing, docum
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&hide_border=true)
-
----
-
 ## 🛠️ Technology Stack
 
 **Frontend**  
