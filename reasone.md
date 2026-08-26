@@ -27,4 +27,4 @@ This repository is a record of that journey.
 
 ---
 
-**Keep learning. Keep building. Keep improving. 🚀**
+## Keep Learning, Keep Building, Keep Improving 🚀
