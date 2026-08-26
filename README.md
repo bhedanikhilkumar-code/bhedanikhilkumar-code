@@ -13,6 +13,25 @@
 
 ---
 
+## Why I Build & Learn
+
+I am a B.Tech student passionate about **technology, cybersecurity, digital forensics, software development, and AI**. I use GitHub as a public learning space to turn ideas into practical projects, experiment with new technologies, solve problems, and continuously improve my skills.
+
+### My Main Reasons
+
+- **Learn by building** — practical projects turn concepts into real engineering experience.
+- **Explore cybersecurity** — I am interested in security, ethical hacking, digital forensics, Linux, and secure technology.
+- **Build with AI** — I explore how AI can solve real-world problems and improve productivity.
+- **Improve as a developer** — every project helps me strengthen coding, debugging, documentation, and software practices.
+- **Create useful projects** — I aim to build practical and meaningful solutions.
+- **Share my progress** — GitHub helps me document my journey and learn from the developer community.
+
+> **Learn → Build → Break → Debug → Improve → Share**
+
+My goal is to become a **job-ready technology professional** with strong technical skills, problem-solving ability, cybersecurity awareness, and the confidence to build real-world solutions.
+
+---
+
 ## Quick Signal
 
 | Signal | Details |
