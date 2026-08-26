@@ -6,8 +6,8 @@
 
 ![Nikhil Bheda - Full-Stack Developer and Flutter Builder](assets/profile-header.svg)
 
-**Full-Stack Developer • Flutter Builder • Automation-Minded Engineer**  
-Building practical products with clean UX, maintainable architecture, and a security-aware mindset.
+**Full-Stack Developer • Flutter Builder • Cybersecurity & AI Enthusiast**  
+Building practical products with clean UX, maintainable architecture, automation, and a security-aware mindset.
 
 [GitHub](https://github.com/bhedanikhilkumar-code) • [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) • [Email](mailto:bhedanikhilkumar@gmail.com) • [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
 
@@ -26,7 +26,7 @@ I use GitHub as a practical learning and building space: **learn by doing, docum
 - 🧠 **Learn by building** — turning concepts into practical engineering experience.
 - 🛡️ **Explore cybersecurity** — security, ethical hacking, digital forensics, Linux, and secure technology.
 - 🤖 **Build with AI** — exploring useful AI-powered solutions and automation.
-- 💻 **Become a better developer** — improving coding, architecture, debugging, and documentation.
+- 💻 **Become a better developer** — improving coding, architecture, debugging, testing, and documentation.
 - 🚀 **Create useful products** — solving real problems instead of building only for demonstration.
 - 📈 **Keep improving** — treating every project and mistake as part of the engineering journey.
 
@@ -45,6 +45,14 @@ I use GitHub as a practical learning and building space: **learn by doing, docum
 | **Engineering** | GitHub Actions • Documentation • Repository Quality |
 
 ![Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools](assets/portfolio-map.svg)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhedanikhilkumar-code&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhedanikhilkumar-code&layout=compact&hide_border=true)
 
 ---
 
@@ -106,8 +114,17 @@ I use GitHub as a practical learning and building space: **learn by doing, docum
 | **Product-first** | Start with the user workflow, problem, and desired outcome. |
 | **Build to learn** | Use real projects to turn theory into practical skills. |
 | **Readable architecture** | Prefer clear naming, practical modules, and documentation another developer can follow. |
+| **Security-aware** | Treat secrets, authentication, permissions, and safe configuration as engineering concerns. |
 | **Automation mindset** | Replace repetitive work with scripts, workflows, templates, or tools. |
 | **Continuous improvement** | Debug, review, learn, and iterate instead of chasing perfection on the first attempt. |
+
+---
+
+## 🔐 Cybersecurity Learning Focus
+
+I am actively developing my understanding of **cybersecurity, Linux, ethical security testing, digital forensics, network security, and secure software practices**.
+
+My approach is practical and responsible: understand how systems work, identify weaknesses in authorized environments, document findings, and learn how to build safer software.
 
 ---
 
