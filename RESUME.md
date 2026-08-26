@@ -1,6 +1,6 @@
 # Nikhil Bheda
 
-## Full-Stack Developer | Flutter Builder | Product-Focused Computer Engineering Student
+## Full-Stack Developer | Flutter Builder | Cybersecurity & AI Enthusiast
 
 - 📧 [bhedanikhilkumar@gmail.com](mailto:bhedanikhilkumar@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
@@ -12,9 +12,11 @@
 
 ## Professional Summary
 
-Computer Engineering student building practical software products across full-stack web, Flutter mobile, automation, and developer tooling. Strong interest in workflow-heavy applications: dashboards, admin systems, mobile productivity apps, automation pipelines, and tools that make repetitive work faster.
+Computer Engineering student building practical software products across full-stack web, Flutter mobile, automation, AI, and developer tooling. Strong interest in workflow-heavy applications including dashboards, admin systems, mobile productivity apps, automation pipelines, and tools that make repetitive work faster.
 
-Known for clean UI direction, documentation-first repositories, maintainable project structure, and product thinking that makes portfolio projects easier for recruiters and developers to evaluate quickly.
+Developing a security-aware engineering mindset through hands-on learning in **cybersecurity, Linux, ethical security testing, digital forensics, and secure software practices**.
+
+Known for clean UI direction, documentation-first repositories, maintainable project structure, practical automation, and product thinking that makes portfolio projects easier for recruiters and developers to evaluate.
 
 ---
 
@@ -25,9 +27,11 @@ Known for clean UI direction, documentation-first repositories, maintainable pro
 | **Frontend** | React, TypeScript, JavaScript, HTML, CSS, responsive UI, dashboard UX |
 | **Backend** | Node.js, Express, FastAPI, Python, REST APIs, authentication flows |
 | **Mobile** | Flutter, Dart, Provider, Hive, offline-first mobile experiences |
-| **Database** | PostgreSQL, MySQL, Prisma, structured data modeling |
-| **Tools** | Git, GitHub, Docker, Firebase, documentation, CI/readme quality checks |
-| **Product** | Workflow thinking, feature prioritization, portfolio presentation, automation mindset |
+| **Database** | PostgreSQL, MySQL, Prisma, Firebase, structured data modeling |
+| **AI & Automation** | AI-assisted workflows, automation pipelines, developer productivity tooling |
+| **Cybersecurity** | Linux, security fundamentals, ethical security testing, digital forensics, secure configuration |
+| **Tools** | Git, GitHub, GitHub Actions, Docker, documentation, CI/readme quality checks |
+| **Product** | Workflow thinking, feature prioritization, problem solving, portfolio presentation |
 
 ---
 
@@ -43,11 +47,11 @@ Full-stack export logistics workflow platform for shipment tracking, document ve
 
 ### Planora
 
-Calendar and admin platform with recurrence, ICS import/export, authentication, and PostgreSQL-backed event workflows.
+Calendar and admin platform with recurrence, ICS import/export, authentication, audit logs, and PostgreSQL-backed event workflows.
 
 - **Stack:** React, TypeScript, Node.js, Prisma, PostgreSQL
 - **Highlights:** recurring schedule logic, admin dashboard, event workflows, structured backend design
-- **Signal:** scheduling/data-modeling project with production-style platform thinking
+- **Signal:** scheduling and data-modeling project with production-style platform thinking
 
 ### Site Surveyor Compass
 
@@ -59,7 +63,7 @@ Flutter field utility app for GPS workflows, measurement tools, waypoint managem
 
 ### AutoPortfolio Builder
 
-Portfolio generator that turns GitHub/LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
+Portfolio generator that turns GitHub and LinkedIn inputs into portfolio-ready content with authentication and admin tooling.
 
 - **Stack:** FastAPI, Python, JavaScript, HTML/CSS
 - **Highlights:** content automation, auth/admin flows, exports, developer productivity
@@ -89,7 +93,8 @@ Portfolio generator that turns GitHub/LinkedIn inputs into portfolio-ready conte
 
 - Strengthening backend architecture and API design
 - Improving Flutter state management and offline-first patterns
-- Building better testing, CI, and deployment habits
+- Building stronger testing, CI, and deployment habits
+- Developing practical cybersecurity and digital-forensics knowledge
 - Creating portfolio repositories that are easy for recruiters and developers to review
 
 ---
