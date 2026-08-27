@@ -1,165 +1,190 @@
-# Nikhil Bheda
+# 👋 Hi, I'm Nikhil Bheda
 
-<!-- REPO_HEALTH_BADGE_START -->
-[![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml)
-<!-- REPO_HEALTH_BADGE_END -->
+![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)
 
-![Nikhil Bheda - Full-Stack Developer and Flutter Builder](assets/profile-header.svg)
+![Nikhil Bheda — Full-Stack Developer & Flutter Builder](assets/profile-header.svg)
 
-**Full-Stack Developer • Flutter Builder • Cybersecurity & AI Enthusiast**  
-Building practical products with clean UX, maintainable architecture, automation, and a security-aware mindset.
+> **B.Tech Student • Full-Stack Developer • Flutter Builder • AI & Cybersecurity Explorer**
+>
+> I build practical software, break things while learning, debug what I break, and keep shipping better versions. 🚀
 
-[GitHub](https://github.com/bhedanikhilkumar-code) • [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) • [Email](mailto:bhedanikhilkumar@gmail.com) • [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-
----
-
-## 👋 About Me
-
-I am a **B.Tech student and aspiring technology professional** focused on building real-world software while continuously expanding my knowledge across **full-stack development, Flutter, AI, cybersecurity, and digital forensics**.
-
-I use GitHub as a practical learning and building space: **learn by doing, document the process, improve through feedback, and turn ideas into useful products.**
-
-> **Learn → Build → Break → Debug → Improve → Share**
-
-### 🎯 What Drives Me
-
-- 🧠 **Learn by building** — turning concepts into practical engineering experience.
-- 🛡️ **Explore cybersecurity** — security, ethical hacking, digital forensics, Linux, and secure technology.
-- 🤖 **Build with AI** — exploring useful AI-powered solutions and automation.
-- 💻 **Become a better developer** — improving coding, architecture, debugging, testing, and documentation.
-- 🚀 **Create useful products** — solving real problems instead of building only for demonstration.
-- 📈 **Keep improving** — treating every project and mistake as part of the engineering journey.
+<p align="center">
+  <a href="https://github.com/bhedanikhilkumar-code"><strong>GitHub</strong></a> ·
+  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/"><strong>LinkedIn</strong></a> ·
+  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/"><strong>Portfolio</strong></a> ·
+  <a href="mailto:bhedanikhilkumar@gmail.com"><strong>Email</strong></a>
+</p>
 
 ---
 
-## 🧭 Profile Snapshot
+## 🧑‍💻 About Me
 
-| | |
+I'm a **B.Tech student and aspiring software engineer** focused on turning ideas into useful, maintainable products.
+
+My main areas of exploration are:
+
+- 💻 **Full-stack development** — modern frontend, backend APIs, databases, and application architecture
+- 📱 **Flutter development** — practical mobile utilities and offline-first workflows
+- 🤖 **AI & automation** — useful tools that reduce repetitive work and improve workflows
+- 🛡️ **Cybersecurity** — Linux, secure development, ethical security testing, and digital forensics
+- 🧪 **Engineering quality** — debugging, testing, documentation, CI/CD, and continuous improvement
+
+### My workflow
+
+```text
+Learn → Build → Break → Debug → Improve → Document → Ship
+```
+
+I use GitHub as both a **portfolio and engineering workshop**: the goal isn't just to show finished screens, but to show how I think, build, troubleshoot, and improve.
+
+---
+
+## 🧭 What I'm Building Toward
+
+| Focus | Direction |
 | --- | --- |
-| **Current Direction** | Full-Stack Developer • Flutter Developer • Junior Software Engineer |
-| **Interests** | AI • Cybersecurity • Digital Forensics • Automation • Software Engineering |
-| **Frontend** | React • TypeScript • JavaScript • Responsive UI |
-| **Backend** | Node.js • Express • FastAPI • REST APIs |
-| **Mobile** | Flutter • Dart • Offline-first workflows |
-| **Data** | PostgreSQL • MySQL • Prisma • Firebase |
-| **Engineering** | GitHub Actions • Documentation • Repository Quality |
-
-![Portfolio focus map showing workflow platforms, Flutter apps, automation systems, and developer tools](assets/portfolio-map.svg)
+| 🎯 Career | Job-ready software engineer with strong fundamentals |
+| 🌐 Full Stack | React, TypeScript, Node.js, APIs, databases |
+| 📱 Mobile | Flutter, Dart, offline-first application design |
+| 🤖 AI | Practical AI-powered tools and automation |
+| 🛡️ Security | Secure software practices, Linux, forensics, ethical testing |
+| ⚙️ Engineering | Git, GitHub Actions, documentation, testing, clean architecture |
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
-**Frontend**  
+**Frontend**
+
 `React` `TypeScript` `JavaScript` `HTML` `CSS`
 
-**Backend & APIs**  
+**Backend & APIs**
+
 `Node.js` `Express` `FastAPI` `Python` `REST APIs`
 
-**Mobile**  
+**Mobile**
+
 `Flutter` `Dart` `Provider` `Hive` `Firebase`
 
-**Databases & Tools**  
-`PostgreSQL` `MySQL` `Prisma` `Firebase` `Git` `GitHub Actions`
+**Data**
 
-**Exploration**  
-`AI` `Cybersecurity` `Linux` `Digital Forensics` `Automation`
+`PostgreSQL` `MySQL` `Prisma` `Firebase`
+
+**Tools & Engineering**
+
+`Git` `GitHub` `GitHub Actions` `Linux` `Documentation` `Automation`
+
+**Exploring**
+
+`AI` `Cybersecurity` `Digital Forensics` `Network Security`
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. ExporTrack AI
+### 📦 ExporTrack AI
 
-**Export logistics workflow platform** with shipment visibility, document verification, and operations dashboards.
+A **shipment and export logistics workflow platform** focused on visibility, document verification, and operations dashboards.
 
-**Stack:** React · TypeScript · Node.js · Express · MySQL  
-🔗 [View Project](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
+**Built with:** React · TypeScript · Node.js · Express · MySQL
 
-### 2. Planora
+→ [View repository](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
 
-**Calendar and administration platform** with recurrence, ICS import/export, authentication, and event management.
+### 📅 Planora
 
-**Stack:** React · TypeScript · Node.js · Prisma · PostgreSQL  
-🔗 [View Project](https://github.com/bhedanikhilkumar-code/Planora)
+A **calendar and administration platform** with recurring events, ICS import/export, authentication, and event management.
 
-### 3. Site Surveyor Compass
+**Built with:** React · TypeScript · Node.js · Prisma · PostgreSQL
 
-**Flutter field utility** for GPS workflows, measurements, waypoint management, and site reporting.
+→ [View repository](https://github.com/bhedanikhilkumar-code/Planora)
 
-**Stack:** Flutter · Dart · Provider · Hive · Firebase  
-🔗 [View Project](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
+### 🧭 Site Surveyor Compass
 
-### 4. AutoPortfolio Builder
+A **Flutter field utility** for GPS workflows, measurements, waypoint management, and site reporting.
 
-**Portfolio automation tool** that turns GitHub and LinkedIn inputs into review-ready content.
+**Built with:** Flutter · Dart · Provider · Hive · Firebase
 
-**Stack:** FastAPI · Python · JavaScript · Authentication · Admin tooling  
-🔗 [View Project](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
+→ [View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
+
+### ⚡ AutoPortfolio Builder
+
+A **portfolio automation tool** that turns GitHub and LinkedIn inputs into structured, review-ready content.
+
+**Built with:** FastAPI · Python · JavaScript · Authentication · Admin tooling
+
+→ [View repository](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
 
 ---
 
-## 💡 Engineering Philosophy
+## 🧠 Engineering Principles
 
-| Principle | What it means to me |
+> **Good software is not just code that works. It's code that can be understood, maintained, tested, and improved.**
+
+| Principle | How I apply it |
 | --- | --- |
-| **Product-first** | Start with the user workflow, problem, and desired outcome. |
-| **Build to learn** | Use real projects to turn theory into practical skills. |
-| **Readable architecture** | Prefer clear naming, practical modules, and documentation another developer can follow. |
-| **Security-aware** | Treat secrets, authentication, permissions, and safe configuration as engineering concerns. |
-| **Automation mindset** | Replace repetitive work with scripts, workflows, templates, or tools. |
-| **Continuous improvement** | Debug, review, learn, and iterate instead of chasing perfection on the first attempt. |
+| **Product-first** | Start with the problem, workflow, user, and outcome. |
+| **Build to learn** | Turn concepts into working projects instead of stopping at tutorials. |
+| **Readable by default** | Prefer clear names, simple structure, and useful documentation. |
+| **Security-aware** | Treat authentication, permissions, secrets, and safe configuration as core concerns. |
+| **Automate the boring** | Use scripts and workflows wherever repetition can be removed. |
+| **Iterate relentlessly** | Debug, review, learn, refactor, and ship the next version. |
 
 ---
 
-## 🔐 Cybersecurity Learning Focus
+## 🛡️ Cybersecurity Learning
 
-I am actively developing my understanding of **cybersecurity, Linux, ethical security testing, digital forensics, network security, and secure software practices**.
+I'm building practical knowledge around **Linux, cybersecurity, digital forensics, network security, ethical security testing, and secure software development**.
 
-My approach is practical and responsible: understand how systems work, identify weaknesses in authorized environments, document findings, and learn how to build safer software.
+My approach is straightforward: understand the system, test only where authorized, document what I learn, and use that knowledge to build safer software.
 
 ---
 
-## 📚 Documentation Hub
+## 📚 Documentation
 
-| Document | Purpose |
+| Resource | What's inside |
 | --- | --- |
-| [Architecture](docs/ARCHITECTURE.md) | System layers, workflow, data/state model, and extension points. |
-| [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
-| [Roadmap](docs/ROADMAP.md) | Practical next steps for strengthening the portfolio. |
-| [Project Showcase](docs/PROJECT_SHOWCASE.md) | Categorized portfolio across full-stack, Flutter, automation, AI, and applied projects. |
-| [Quality Standard](docs/QUALITY.md) | Repository health checks, review standards, and quality gates. |
-| [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) | Fast review path for recruiters, mentors, collaborators, and developers. |
-| [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final recruiter/share review checklist. |
-| [Resume](RESUME.md) | Current resume and professional profile. |
-| [Why I Build & Learn](reasone.md) | Extended motivation and learning journey. |
+| [Architecture](docs/ARCHITECTURE.md) | System layers, workflows, data/state model, and extension points |
+| [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story |
+| [Roadmap](docs/ROADMAP.md) | Practical improvements and next steps |
+| [Project Showcase](docs/PROJECT_SHOWCASE.md) | Categorized portfolio across development, mobile, automation, and AI |
+| [Quality Standard](docs/QUALITY.md) | Repository health checks and engineering quality gates |
+| [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) | Fast path for recruiters, mentors, and collaborators |
+| [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final review checklist before sharing work |
+| [Resume](RESUME.md) | Current professional profile |
+| [Why I Build & Learn](reasone.md) | Personal motivation and learning journey |
 
 ---
 
-## 📌 Best Review Path
+## 🔎 Start Here
 
-If you are reviewing my work for the first time, this is the recommended order:
+If you're reviewing my work for the first time, I'd recommend this order:
 
-**01 → ExporTrack AI** — product + dashboard thinking  
-**02 → Planora** — scheduling + data modeling  
-**03 → Site Surveyor Compass** — Flutter + mobile utility UX  
-**04 → AutoPortfolio Builder** — automation + backend tooling
-
----
-
-## 🌱 Long-Term Goal
-
-My goal is to become a **job-ready technology professional** with strong technical skills, problem-solving ability, cybersecurity awareness, and the confidence to build reliable real-world solutions.
-
-This GitHub profile is a record of that journey — **from learning concepts to building systems.**
+**01 — ExporTrack AI** → product thinking + dashboards  
+**02 — Planora** → scheduling + data modeling  
+**03 — Site Surveyor Compass** → Flutter + mobile utility UX  
+**04 — AutoPortfolio Builder** → automation + backend tooling
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 What's Next
 
-- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
+I'm working toward becoming a **strong, job-ready software engineer** who can take a problem from idea → architecture → implementation → debugging → deployment.
+
+The long game is simple:
+
+> **Build useful things. Learn from the failures. Keep the fundamentals strong. Ship better software.**
+
+---
+
+## 🤝 Let's Connect
+
+- 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
 - 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
+- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
 
-## Keep Learning, Keep Building, Keep Improving 🚀
+---
+
+<p align="center">
+  <strong>Keep learning. Keep building. Keep improving. 🚀</strong>
+</p>
