@@ -97,7 +97,7 @@ A **Flutter field utility** for GPS workflows, measurements, waypoint management
 
 **Built with:** Flutter · Dart · Provider · Hive · Firebase
 
-[View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
+[View repository](https://github.com/bhedanikhumar-code/site-surveyor-compass)
 
 ### ⚡ AutoPortfolio Builder
 
@@ -186,5 +186,7 @@ I'm working toward becoming a **strong, job-ready software engineer** who can ta
 - 📧 [Email](mailto:bhedanikhumar@gmail.com)
 
 ---
+
+## 🚀 Keep Building
 
 Keep learning. Keep building. Keep improving. 🚀
