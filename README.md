@@ -8,7 +8,7 @@
 >
 > I build practical software, debug what I break, and keep shipping better versions. 🚀
 
-[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhilkumar@gmail.com)
+[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhumar@gmail.com)
 
 ---
 
@@ -183,8 +183,8 @@ I'm working toward becoming a **strong, job-ready software engineer** who can ta
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
 - 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
+- 📧 [Email](mailto:bhedanikhumar@gmail.com)
 
 ---
 
-**Keep learning. Keep building. Keep improving. 🚀**
+Keep learning. Keep building. Keep improving. 🚀
