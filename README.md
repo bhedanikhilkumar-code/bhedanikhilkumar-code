@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nikhil Bheda
 
-![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhumar-code/actions/workflows/repository-health.yml/badge.svg)
+![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)
 
 ![Nikhil Bheda — Full-Stack Developer & Flutter Builder](assets/profile-header.svg)
 
@@ -81,7 +81,7 @@ A **shipment and export logistics workflow platform** focused on visibility, doc
 
 **Built with:** React · TypeScript · Node.js · Express · MySQL
 
-[View repository](https://github.com/bhedanikhumar-code/ExporTrack-AI)
+[View repository](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
 
 ### 📅 Planora
 
@@ -89,7 +89,7 @@ A **calendar and administration platform** with recurring events, ICS import/exp
 
 **Built with:** React · TypeScript · Node.js · Prisma · PostgreSQL
 
-[View repository](https://github.com/bhedanikhumar-code/Planora)
+[View repository](https://github.com/bhedanikhilkumar-code/Planora)
 
 ### 🧭 Site Surveyor Compass
 
@@ -97,7 +97,7 @@ A **Flutter field utility** for GPS workflows, measurements, waypoint management
 
 **Built with:** Flutter · Dart · Provider · Hive · Firebase
 
-[View repository](https://github.com/bhedanikhumar-code/site-surveyor-compass)
+[View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
 
 ### ⚡ AutoPortfolio Builder
 
@@ -105,13 +105,13 @@ A **portfolio automation tool** that turns GitHub and LinkedIn inputs into struc
 
 **Built with:** FastAPI · Python · JavaScript · Authentication · Admin tooling
 
-[View repository](https://github.com/bhedanikhumar-code/AutoPortfolio-Builder)
+[View repository](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
 
 ---
 
 ## 🎮 Sneak Commit
 
-A small browser game built as part of this profile repository. Dodge the incoming commits, survive the timer, and chase a high score. 🕹️
+A small browser game built as part of this profile repository. Dodge the incoming commits and chase a high score. 🕹️
 
 **Game:** `HTML` · `CSS` · `JavaScript` · `GitHub Pages`
 
@@ -182,8 +182,8 @@ I'm working toward becoming a **strong, job-ready software engineer** who can ta
 
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
-- 🌐 [Portfolio](https://bhedanikhumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 📧 [Email](mailto:bhedanikhumar@gmail.com)
+- 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
+- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
 
 ---
 
