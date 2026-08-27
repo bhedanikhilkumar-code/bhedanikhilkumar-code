@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nikhil Bheda
+# Nikhil Bheda 👋
 
 ![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)
 
@@ -97,7 +97,7 @@ A **Flutter field utility** for GPS workflows, measurements, waypoint management
 
 **Built with:** Flutter · Dart · Provider · Hive · Firebase
 
-[View repository](https://github.com/bhedanikhumar-code/site-surveyor-compass)
+[View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
 
 ### ⚡ AutoPortfolio Builder
 
@@ -142,7 +142,7 @@ My approach is straightforward: understand the system, test only where authorize
 
 ---
 
-## 📚 Documentation
+## 📚 Documentation Hub
 
 | Resource | What's inside |
 | --- | --- |
