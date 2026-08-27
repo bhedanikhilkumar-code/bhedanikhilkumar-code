@@ -1,19 +1,14 @@
 # 👋 Hi, I'm Nikhil Bheda
 
-![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)
+![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhumar-code/actions/workflows/repository-health.yml/badge.svg)
 
 ![Nikhil Bheda — Full-Stack Developer & Flutter Builder](assets/profile-header.svg)
 
 > **B.Tech Student • Full-Stack Developer • Flutter Builder • AI & Cybersecurity Explorer**
 >
-> I build practical software, break things while learning, debug what I break, and keep shipping better versions. 🚀
+> I build practical software, debug what I break, and keep shipping better versions. 🚀
 
-<p align="center">
-  <a href="https://github.com/bhedanikhilkumar-code"><strong>GitHub</strong></a> ·
-  <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/"><strong>LinkedIn</strong></a> ·
-  <a href="https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/"><strong>Portfolio</strong></a> ·
-  <a href="mailto:bhedanikhilkumar@gmail.com"><strong>Email</strong></a>
-</p>
+[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhilkumar@gmail.com)
 
 ---
 
@@ -21,21 +16,19 @@
 
 I'm a **B.Tech student and aspiring software engineer** focused on turning ideas into useful, maintainable products.
 
-My main areas of exploration are:
-
-- 💻 **Full-stack development** — modern frontend, backend APIs, databases, and application architecture
+- 💻 **Full-stack development** — frontend, APIs, databases, and application architecture
 - 📱 **Flutter development** — practical mobile utilities and offline-first workflows
-- 🤖 **AI & automation** — useful tools that reduce repetitive work and improve workflows
-- 🛡️ **Cybersecurity** — Linux, secure development, ethical security testing, and digital forensics
+- 🤖 **AI & automation** — useful tools that reduce repetitive work
+- 🛡️ **Cybersecurity** — Linux, secure development, digital forensics, and ethical testing
 - 🧪 **Engineering quality** — debugging, testing, documentation, CI/CD, and continuous improvement
 
-### My workflow
+### My Workflow
 
 ```text
 Learn → Build → Break → Debug → Improve → Document → Ship
 ```
 
-I use GitHub as both a **portfolio and engineering workshop**: the goal isn't just to show finished screens, but to show how I think, build, troubleshoot, and improve.
+I use GitHub as both a **portfolio and engineering workshop**: the goal is to show how I think, build, troubleshoot, and improve.
 
 ---
 
@@ -54,27 +47,27 @@ I use GitHub as both a **portfolio and engineering workshop**: the goal isn't ju
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 
 `React` `TypeScript` `JavaScript` `HTML` `CSS`
 
-**Backend & APIs**
+### Backend & APIs
 
 `Node.js` `Express` `FastAPI` `Python` `REST APIs`
 
-**Mobile**
+### Mobile
 
 `Flutter` `Dart` `Provider` `Hive` `Firebase`
 
-**Data**
+### Data
 
 `PostgreSQL` `MySQL` `Prisma` `Firebase`
 
-**Tools & Engineering**
+### Tools & Engineering
 
 `Git` `GitHub` `GitHub Actions` `Linux` `Documentation` `Automation`
 
-**Exploring**
+### Exploring
 
 `AI` `Cybersecurity` `Digital Forensics` `Network Security`
 
@@ -88,7 +81,7 @@ A **shipment and export logistics workflow platform** focused on visibility, doc
 
 **Built with:** React · TypeScript · Node.js · Express · MySQL
 
-→ [View repository](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
+[View repository](https://github.com/bhedanikhumar-code/ExporTrack-AI)
 
 ### 📅 Planora
 
@@ -96,7 +89,7 @@ A **calendar and administration platform** with recurring events, ICS import/exp
 
 **Built with:** React · TypeScript · Node.js · Prisma · PostgreSQL
 
-→ [View repository](https://github.com/bhedanikhilkumar-code/Planora)
+[View repository](https://github.com/bhedanikhumar-code/Planora)
 
 ### 🧭 Site Surveyor Compass
 
@@ -104,7 +97,7 @@ A **Flutter field utility** for GPS workflows, measurements, waypoint management
 
 **Built with:** Flutter · Dart · Provider · Hive · Firebase
 
-→ [View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
+[View repository](https://github.com/bhedanikhumar-code/site-surveyor-compass)
 
 ### ⚡ AutoPortfolio Builder
 
@@ -112,7 +105,17 @@ A **portfolio automation tool** that turns GitHub and LinkedIn inputs into struc
 
 **Built with:** FastAPI · Python · JavaScript · Authentication · Admin tooling
 
-→ [View repository](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
+[View repository](https://github.com/bhedanikhumar-code/AutoPortfolio-Builder)
+
+---
+
+## 🎮 Sneak Commit
+
+A small browser game built as part of this profile repository. Dodge the incoming commits, survive the timer, and chase a high score. 🕹️
+
+**Game:** `HTML` · `CSS` · `JavaScript` · `GitHub Pages`
+
+[▶️ Play Sneak Commit](game/)
 
 ---
 
@@ -157,12 +160,13 @@ My approach is straightforward: understand the system, test only where authorize
 
 ## 🔎 Start Here
 
-If you're reviewing my work for the first time, I'd recommend this order:
+If you're reviewing my work for the first time:
 
-**01 — ExporTrack AI** → product thinking + dashboards  
-**02 — Planora** → scheduling + data modeling  
-**03 — Site Surveyor Compass** → Flutter + mobile utility UX  
-**04 — AutoPortfolio Builder** → automation + backend tooling
+1. **ExporTrack AI** → product thinking + dashboards
+2. **Planora** → scheduling + data modeling
+3. **Site Surveyor Compass** → Flutter + mobile utility UX
+4. **AutoPortfolio Builder** → automation + backend tooling
+5. **Sneak Commit** → browser game + lightweight JavaScript
 
 ---
 
@@ -170,9 +174,7 @@ If you're reviewing my work for the first time, I'd recommend this order:
 
 I'm working toward becoming a **strong, job-ready software engineer** who can take a problem from idea → architecture → implementation → debugging → deployment.
 
-The long game is simple:
-
-> **Build useful things. Learn from the failures. Keep the fundamentals strong. Ship better software.**
+> **Build useful things. Learn from failures. Keep the fundamentals strong. Ship better software.**
 
 ---
 
@@ -180,11 +182,9 @@ The long game is simple:
 
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
-- 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
+- 🌐 [Portfolio](https://bhedanikhumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
+- 📧 [Email](mailto:bhedanikhumar@gmail.com)
 
 ---
 
-<p align="center">
-  <strong>Keep learning. Keep building. Keep improving. 🚀</strong>
-</p>
+**Keep learning. Keep building. Keep improving. 🚀**
