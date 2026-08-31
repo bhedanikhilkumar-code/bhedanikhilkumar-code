@@ -8,7 +8,7 @@
 >
 > I build practical software, debug what I break, and keep shipping better versions. 🚀
 
-[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhumar@gmail.com)
+[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhilkumar@gmail.com)
 
 ---
 
@@ -109,6 +109,21 @@ A **portfolio automation tool** that turns GitHub and LinkedIn inputs into struc
 
 ---
 
+## 🔬 Project Proof
+
+The featured repositories are documented as engineering projects, not just code dumps. Each project README provides a clear review path with architecture, core workflows, setup instructions, quality checks, security notes, and a roadmap.
+
+| Project | Strongest engineering signal | Review first |
+| --- | --- | --- |
+| **ExporTrack AI** | Business workflow + dashboard architecture | Shipment and document workflow |
+| **Planora** | Scheduling domain + backend modeling | Recurrence and calendar interoperability |
+| **Site Surveyor Compass** | Device APIs + offline-first mobile design | GPS, sensors, storage, and field workflow |
+| **AutoPortfolio Builder** | API integration + automation | Profile intake, generation, and exports |
+
+> **Review principle:** understand the problem → inspect the architecture → run the project → review the quality checks.
+
+---
+
 ## 🎮 Sneak Commit
 
 A small browser game built as part of this profile repository. Dodge the incoming commits and chase a high score. 🕹️
@@ -139,6 +154,18 @@ A small browser game built as part of this profile repository. Dodge the incomin
 I'm building practical knowledge around **Linux, cybersecurity, digital forensics, network security, ethical security testing, and secure software development**.
 
 My approach is straightforward: understand the system, test only where authorized, document what I learn, and use that knowledge to build safer software.
+
+---
+
+## 🧪 Engineering Quality
+
+I treat repository quality as part of the product, not an afterthought.
+
+- **CI:** GitHub Actions for automated repository-health checks
+- **Documentation:** Architecture, roadmap, quality, security, and review guidance
+- **Configuration:** Environment examples instead of committed secrets
+- **Testing direction:** Unit/API testing and build verification where supported by each project
+- **Reviewability:** Clear project structure, setup instructions, and explicit engineering tradeoffs
 
 ---
 
@@ -183,7 +210,7 @@ I'm working toward becoming a **strong, job-ready software engineer** who can ta
 - 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
 - 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 📧 [Email](mailto:bhedanikhumar@gmail.com)
+- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
 
 ---
 
