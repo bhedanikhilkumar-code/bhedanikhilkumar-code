@@ -1,219 +1,73 @@
-# Nikhil Bheda 👋
+<div align="center">
 
-![Repository Health](https://github.com/bhedanikhilkumar-code/bhedanikhilkumar-code/actions/workflows/repository-health.yml/badge.svg)
+<img src="assets/header.svg" alt="Bheda Nikhilkumar — Computer Engineering student building full-stack, AI and security projects" width="100%" />
 
-![Nikhil Bheda — Full-Stack Developer & Flutter Builder](assets/profile-header.svg)
+<br />
 
-> **B.Tech Student • Full-Stack Developer • Flutter Builder • AI & Cybersecurity Explorer**
->
-> I build practical software, debug what I break, and keep shipping better versions. 🚀
+<a href="https://bheda.sites.tab.bot/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.youtube.com/@DevGyaanHindi"><img src="https://img.shields.io/badge/YouTube-Dev%20Gyaan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — Dev Gyaan" /></a>
+<a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-[GitHub](https://github.com/bhedanikhilkumar-code) · [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/) · [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/) · [Email](mailto:bhedanikhilkumar@gmail.com)
+</div>
 
----
+## 👋 About me
 
-## 🧑‍💻 About Me
+I'm **Bheda Nikhilkumar**, a second-year **B.Tech Computer Engineering** student at **Atmiya University, Rajkot** (2025 – 2029).
 
-I'm a **B.Tech student and aspiring software engineer** focused on turning ideas into useful, maintainable products.
+- 🛠️ I build full-stack web apps, developer tools and small AI/ML projects, end to end.
+- 🛡️ I'm especially interested in **cybersecurity** and privacy-first software.
+- 📺 I run **[Dev Gyaan](https://www.youtube.com/@DevGyaanHindi)**, a YouTube channel where I explain tech in simple Hindi.
+- 🌱 My loop: **Learn → Build → Break → Debug → Improve → Share.**
 
-- 💻 **Full-stack development** — frontend, APIs, databases, and application architecture
-- 📱 **Flutter development** — practical mobile utilities and offline-first workflows
-- 🤖 **AI & automation** — useful tools that reduce repetitive work
-- 🛡️ **Cybersecurity** — Linux, secure development, digital forensics, and ethical testing
-- 🧪 **Engineering quality** — debugging, testing, documentation, CI/CD, and continuous improvement
+## 🧰 Tech I work with
 
-### My Workflow
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,vite,nodejs,express,fastapi,sklearn,mongodb,docker,githubactions,cloudflare,git&perline=8" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Vite, Node.js, Express, FastAPI, scikit-learn, MongoDB, Docker, GitHub Actions, Cloudflare, Git" />
+</p>
 
-```text
-Learn → Build → Break → Debug → Improve → Document → Ship
-```
+## 🚀 Featured projects
 
-I use GitHub as both a **portfolio and engineering workshop**: the goal is to show how I think, build, troubleshoot, and improve.
+### 🛡️ [Privex](https://github.com/bhedanikhilkumar-code/Privex)
 
----
+A privacy-first threat-protection platform that detects phishing, scams and malicious links **on the device**, in real time, with no cloud dependency.
+[**Try the web scanner →**](https://bhedanikhilkumar-code.github.io/Privex/)
 
-## 🧭 What I'm Building Toward
+`TypeScript` · `JavaScript` · `PWA` · `Vitest` · `Cloudflare`
 
-| Focus | Direction |
-| --- | --- |
-| 🎯 Career | Job-ready software engineer with strong fundamentals |
-| 🌐 Full Stack | React, TypeScript, Node.js, APIs, databases |
-| 📱 Mobile | Flutter, Dart, offline-first application design |
-| 🤖 AI | Practical AI-powered tools and automation |
-| 🛡️ Security | Secure software practices, Linux, forensics, ethical testing |
-| ⚙️ Engineering | Git, GitHub Actions, documentation, testing, clean architecture |
+### 🔎 [aevoraSEO](https://github.com/bhedanikhilkumar-code/aevoraSEO)
 
----
+A command-line SEO, AEO and GEO (generative-engine optimization) audit engine, with a local web crawler, entity reputation scoring and backlink audits.
+[**Latest release →**](https://github.com/bhedanikhilkumar-code/aevoraSEO/releases/tag/v1.1.0)
 
-## 🛠️ Tech Stack
+`Python` · `CLI` · `Web crawling` · `MIT licensed`
 
-### Frontend
+### 🩺 [Noninvasive Disease Risk Predictor](https://github.com/bhedanikhilkumar-code/noninvasive-disease-risk-predictor)
 
-`React` `TypeScript` `JavaScript` `HTML` `CSS`
+A web app that estimates early disease risk (such as diabetes or heart risk) from symptoms, lifestyle and basic vitals, then shows a risk score, insights and an analytics dashboard.
 
-### Backend & APIs
+`React` · `Vite` · `Express` · `MongoDB` · `FastAPI` · `scikit-learn` · `Docker`
 
-`Node.js` `Express` `FastAPI` `Python` `REST APIs`
+### 🎮 [Sneak Commit](projects/sneak-commit/index.html)
 
-### Mobile
+A tiny browser game that lives in this repo, built with plain HTML, CSS and JavaScript.
+[**Play it in your browser →**](https://raw.githack.com/bhedanikhilkumar-code/bhedanikhilkumar-code/main/projects/sneak-commit/index.html)
 
-`Flutter` `Dart` `Provider` `Hive` `Firebase`
+<p align="right"><a href="https://github.com/bhedanikhilkumar-code?tab=repositories">See all repositories →</a></p>
 
-### Data
+## 📊 GitHub activity
 
-`PostgreSQL` `MySQL` `Prisma` `Firebase`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph for bhedanikhilkumar-code" width="100%" />
+</picture>
 
-### Tools & Engineering
+## 🤝 Let's connect
 
-`Git` `GitHub` `GitHub Actions` `Linux` `Documentation` `Automation`
+I'm always happy to talk about projects, learning and building things together.
 
-### Exploring
+**[Portfolio](https://bheda.sites.tab.bot/)** · **[YouTube — Dev Gyaan](https://www.youtube.com/@DevGyaanHindi)** · **[LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)** · **[GitHub](https://github.com/bhedanikhilkumar-code)**
 
-`AI` `Cybersecurity` `Digital Forensics` `Network Security`
-
----
-
-## 🚀 Featured Projects
-
-### 📦 ExporTrack AI
-
-A **shipment and export logistics workflow platform** focused on visibility, document verification, and operations dashboards.
-
-**Built with:** React · TypeScript · Node.js · Express · MySQL
-
-[View repository](https://github.com/bhedanikhilkumar-code/ExporTrack-AI)
-
-### 📅 Planora
-
-A **calendar and administration platform** with recurring events, ICS import/export, authentication, and event management.
-
-**Built with:** React · TypeScript · Node.js · Prisma · PostgreSQL
-
-[View repository](https://github.com/bhedanikhilkumar-code/Planora)
-
-### 🧭 Site Surveyor Compass
-
-A **Flutter field utility** for GPS workflows, measurements, waypoint management, and site reporting.
-
-**Built with:** Flutter · Dart · Provider · Hive · Firebase
-
-[View repository](https://github.com/bhedanikhilkumar-code/site-surveyor-compass)
-
-### ⚡ AutoPortfolio Builder
-
-A **portfolio automation tool** that turns GitHub and LinkedIn inputs into structured, review-ready content.
-
-**Built with:** FastAPI · Python · JavaScript · Authentication · Admin tooling
-
-[View repository](https://github.com/bhedanikhilkumar-code/AutoPortfolio-Builder)
-
----
-
-## 🔬 Project Proof
-
-The featured repositories are documented as engineering projects, not just code dumps. Each project README provides a clear review path with architecture, core workflows, setup instructions, quality checks, security notes, and a roadmap.
-
-| Project | Strongest engineering signal | Review first |
-| --- | --- | --- |
-| **ExporTrack AI** | Business workflow + dashboard architecture | Shipment and document workflow |
-| **Planora** | Scheduling domain + backend modeling | Recurrence and calendar interoperability |
-| **Site Surveyor Compass** | Device APIs + offline-first mobile design | GPS, sensors, storage, and field workflow |
-| **AutoPortfolio Builder** | API integration + automation | Profile intake, generation, and exports |
-
-> **Review principle:** understand the problem → inspect the architecture → run the project → review the quality checks.
-
----
-
-## 🎮 Sneak Commit
-
-A small browser game built as part of this profile repository. Dodge the incoming commits and chase a high score. 🕹️
-
-**Game:** `HTML` · `CSS` · `JavaScript` · `GitHub Pages`
-
-[▶️ Play Sneak Commit](game/)
-
----
-
-## 🧠 Engineering Principles
-
-> **Good software is not just code that works. It's code that can be understood, maintained, tested, and improved.**
-
-| Principle | How I apply it |
-| --- | --- |
-| **Product-first** | Start with the problem, workflow, user, and outcome. |
-| **Build to learn** | Turn concepts into working projects instead of stopping at tutorials. |
-| **Readable by default** | Prefer clear names, simple structure, and useful documentation. |
-| **Security-aware** | Treat authentication, permissions, secrets, and safe configuration as core concerns. |
-| **Automate the boring** | Use scripts and workflows wherever repetition can be removed. |
-| **Iterate relentlessly** | Debug, review, learn, refactor, and ship the next version. |
-
----
-
-## 🛡️ Cybersecurity Learning
-
-I'm building practical knowledge around **Linux, cybersecurity, digital forensics, network security, ethical security testing, and secure software development**.
-
-My approach is straightforward: understand the system, test only where authorized, document what I learn, and use that knowledge to build safer software.
-
----
-
-## 🧪 Engineering Quality
-
-I treat repository quality as part of the product, not an afterthought.
-
-- **CI:** GitHub Actions for automated repository-health checks
-- **Documentation:** Architecture, roadmap, quality, security, and review guidance
-- **Configuration:** Environment examples instead of committed secrets
-- **Testing direction:** Unit/API testing and build verification where supported by each project
-- **Reviewability:** Clear project structure, setup instructions, and explicit engineering tradeoffs
-
----
-
-## 📚 Documentation Hub
-
-| Resource | What's inside |
-| --- | --- |
-| [Architecture](docs/ARCHITECTURE.md) | System layers, workflows, data/state model, and extension points |
-| [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story |
-| [Roadmap](docs/ROADMAP.md) | Practical improvements and next steps |
-| [Project Showcase](docs/PROJECT_SHOWCASE.md) | Categorized portfolio across development, mobile, automation, and AI |
-| [Quality Standard](docs/QUALITY.md) | Repository health checks and engineering quality gates |
-| [Portfolio Review Guide](docs/PORTFOLIO_REVIEW_GUIDE.md) | Fast path for recruiters, mentors, and collaborators |
-| [Review Checklist](docs/REVIEW_CHECKLIST.md) | Final review checklist before sharing work |
-| [Resume](RESUME.md) | Current professional profile |
-| [Why I Build & Learn](reasone.md) | Personal motivation and learning journey |
-
----
-
-## 🔎 Start Here
-
-If you're reviewing my work for the first time:
-
-1. **ExporTrack AI** → product thinking + dashboards
-2. **Planora** → scheduling + data modeling
-3. **Site Surveyor Compass** → Flutter + mobile utility UX
-4. **AutoPortfolio Builder** → automation + backend tooling
-5. **Sneak Commit** → browser game + lightweight JavaScript
-
----
-
-## 🌱 What's Next
-
-I'm working toward becoming a **strong, job-ready software engineer** who can take a problem from idea → architecture → implementation → debugging → deployment.
-
-> **Build useful things. Learn from failures. Keep the fundamentals strong. Ship better software.**
-
----
-
-## 🤝 Let's Connect
-
-- 🐙 [GitHub](https://github.com/bhedanikhilkumar-code)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)
-- 🌐 [Portfolio](https://bhedanikhilkumar-code.github.io/Bheda-Nikhilkumar-portfolio/)
-- 📧 [Email](mailto:bhedanikhilkumar@gmail.com)
-
----
-
-## 🚀 Keep Building
-
-Keep learning. Keep building. Keep improving. 🚀
+<div align="center">
+<sub>Keep learning, keep building, keep improving. 🚀</sub>
+</div>
