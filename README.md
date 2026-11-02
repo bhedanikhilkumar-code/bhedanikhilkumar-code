@@ -5,7 +5,6 @@
 <br />
 
 <a href="https://bheda.sites.tab.bot/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.youtube.com/@DevGyaanHindi"><img src="https://img.shields.io/badge/YouTube-Dev%20Gyaan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube — Dev Gyaan" /></a>
 <a href="https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
@@ -16,7 +15,6 @@ I'm **Bheda Nikhilkumar**, a second-year **B.Tech Computer Engineering** student
 
 - 🛠️ I build full-stack web apps, developer tools and small AI/ML projects, end to end.
 - 🛡️ I'm especially interested in **cybersecurity** and privacy-first software.
-- 📺 I run **[Dev Gyaan](https://www.youtube.com/@DevGyaanHindi)**, a YouTube channel where I explain tech in simple Hindi.
 - 🌱 My loop: **Learn → Build → Break → Debug → Improve → Share.**
 
 ## 🧰 Tech I work with
@@ -66,7 +64,7 @@ A tiny browser game that lives in this repo, built with plain HTML, CSS and Java
 
 I'm always happy to talk about projects, learning and building things together.
 
-**[Portfolio](https://bheda.sites.tab.bot/)** · **[YouTube — Dev Gyaan](https://www.youtube.com/@DevGyaanHindi)** · **[LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)** · **[GitHub](https://github.com/bhedanikhilkumar-code)**
+**[Portfolio](https://bheda.sites.tab.bot/)** · **[LinkedIn](https://www.linkedin.com/in/bheda-nikhilkumar-6858322ab/)** · **[GitHub](https://github.com/bhedanikhilkumar-code)**
 
 <div align="center">
 <sub>Keep learning, keep building, keep improving. 🚀</sub>
