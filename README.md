@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Bheda Nikhilkumar — Computer Engineering student building full-stack, AI and security projects" width="100%" />
+<img src="assets/hero.webp" alt="Bheda Nikhilkumar" width="100%" />
 
 <br />
 
