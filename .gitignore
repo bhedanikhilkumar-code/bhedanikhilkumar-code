@@ -1,13 +1,23 @@
-# Python cache files
-__pycache__/
-*.py[cod]
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
 
-# Local environment files
+# Local environment & secrets
 .env
 .env.*
 
-# OS/editor noise
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
+# Dependencies, caches & build output
+node_modules/
+__pycache__/
+*.py[cod]
+dist/
+build/
+
+# Temp / backup files
+*.tmp
+*.bak
+*.log
